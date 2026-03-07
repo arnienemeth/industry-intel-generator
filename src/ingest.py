@@ -6,7 +6,10 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 
-from src.utils import DATA_RAW, get_timestamp, save_json, setup_logging
+try:
+    from src.utils import DATA_RAW, get_timestamp, save_json, setup_logging
+except ImportError:
+    from utils import DATA_RAW, get_timestamp, save_json, setup_logging
 
 logger = logging.getLogger(__name__)
 

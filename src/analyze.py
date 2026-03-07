@@ -4,16 +4,28 @@ import logging
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from src.utils import (
-    DATA_PROCESSED,
-    DATA_RAW,
-    calculate_growth_rate,
-    get_latest_file,
-    get_timestamp,
-    load_json,
-    save_json,
-    setup_logging,
-)
+try:
+    from src.utils import (
+        DATA_PROCESSED,
+        DATA_RAW,
+        calculate_growth_rate,
+        get_latest_file,
+        get_timestamp,
+        load_json,
+        save_json,
+        setup_logging,
+    )
+except ImportError:
+    from utils import (
+        DATA_PROCESSED,
+        DATA_RAW,
+        calculate_growth_rate,
+        get_latest_file,
+        get_timestamp,
+        load_json,
+        save_json,
+        setup_logging,
+    )
 
 logger = logging.getLogger(__name__)
 
