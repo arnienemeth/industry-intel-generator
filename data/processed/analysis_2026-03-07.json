@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-07",
+    "github_source": "C:\\Users\\User\\industry-intel-generator\\data\\raw\\github_2026-03-07.json",
+    "hackernews_source": "C:\\Users\\User\\industry-intel-generator\\data\\raw\\hackernews_2026-03-07.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 32,
+      "percentage": 32.0,
+      "total_stars": 13976
+    },
+    {
+      "language": "TypeScript",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 13247
+    },
+    {
+      "language": "Unknown",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 8370
+    },
+    {
+      "language": "Rust",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 17549
+    },
+    {
+      "language": "Shell",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 3961
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 5186
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 387
+    },
+    {
+      "language": "JavaScript",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 464
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 391
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 753
+    },
+    {
+      "language": "HTML",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 247
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 187
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 179
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamicall",
+      "language": "Rust",
+      "stars": 15062,
+      "forks": 548,
+      "engagement_ratio": 0.036,
+      "category": "AI/ML",
+      "url": "https://github.com/googleworkspace/cli"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "description": "Open-source orchestration for zero-human companies",
+      "language": "TypeScript",
+      "stars": 7460,
+      "forks": 854,
+      "engagement_ratio": 0.114,
+      "category": "AI/ML",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and g",
+      "language": "Unknown",
+      "stars": 4382,
+      "forks": 421,
+      "engagement_ratio": 0.096,
+      "category": "Other",
+      "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+      "name": "smartcmd/MinecraftConsoles",
+      "description": "A certain block game",
+      "language": "C++",
+      "stars": 3821,
+      "forks": 715,
+      "engagement_ratio": 0.187,
+      "category": "AI/ML",
+      "url": "https://github.com/smartcmd/MinecraftConsoles"
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "description": "obliterate the chains that bind you",
+      "language": "Python",
+      "stars": 2123,
+      "forks": 372,
+      "engagement_ratio": 0.175,
+      "category": "AI/ML",
+      "url": "https://github.com/elder-plinius/OBLITERATUS"
+    },
+    {
+      "name": "LeoYeAI/openclaw-master-skills",
+      "description": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.a",
+      "language": "Python",
+      "stars": 1428,
+      "forks": 367,
+      "engagement_ratio": 0.257,
+      "category": "AI/ML",
+      "url": "https://github.com/LeoYeAI/openclaw-master-skills"
+    },
+    {
+      "name": "World-Open-Graph/br-acc",
+      "description": "World Transparency Graph public codebase (🚧 website in progress)",
+      "language": "Python",
+      "stars": 1381,
+      "forks": 373,
+      "engagement_ratio": 0.27,
+      "category": "Web Development",
+      "url": "https://github.com/World-Open-Graph/br-acc"
+    },
+    {
+      "name": "slowmist/openclaw-security-practice-guide",
+      "description": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.",
+      "language": "Shell",
+      "stars": 1323,
+      "forks": 87,
+      "engagement_ratio": 0.066,
+      "category": "Security",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide"
+    },
+    {
+      "name": "LeoYeAI/openclaw-guardian",
+      "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapsh",
+      "language": "Shell",
+      "stars": 1036,
+      "forks": 390,
+      "engagement_ratio": 0.376,
+      "category": "AI/ML",
+      "url": "https://github.com/LeoYeAI/openclaw-guardian"
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "Unknown",
+      "stars": 962,
+      "forks": 28,
+      "engagement_ratio": 0.029,
+      "category": "AI/ML",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Other",
+      "count": 42,
+      "percentage": 42.0
+    },
+    {
+      "category": "Web Development",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Security",
+      "count": 5,
+      "percentage": 5.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 169.3,
+    "avg_comments": 84.1,
+    "max_score": 969,
+    "top_5_stories": [
+      {
+        "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+        "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+        "score": 969,
+        "comments": 651,
+        "author": "enraged_camel"
+      },
+      {
+        "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+        "url": "",
+        "score": 870,
+        "comments": 760,
+        "author": "shannoncc"
+      },
+      {
+        "title": "Hardening Firefox with Anthropic's Red Team",
+        "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+        "score": 599,
+        "comments": 165,
+        "author": "todsacerdoti"
+      },
+      {
+        "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+        "url": "https://plasma-bigscreen.org",
+        "score": 582,
+        "comments": 183,
+        "author": "PaulHoule"
+      },
+      {
+        "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+        "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+        "score": 579,
+        "comments": 322,
+        "author": "Anon84"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 64897,
+    "avg_stars": 649.0
+  }
+}
