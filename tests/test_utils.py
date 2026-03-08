@@ -1,6 +1,5 @@
 """Tests for src/utils.py utility functions."""
 
-import json
 import re
 import sys
 from pathlib import Path

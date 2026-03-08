@@ -40,8 +40,8 @@ def generate_dashboard(analysis: dict[str, Any]) -> str:
     avg_hn_score = hn_data.get("avg_score", 0)
 
     # Prepare chart data
-    lang_labels = json.dumps([l["language"] for l in languages[:10]])
-    lang_counts = json.dumps([l["count"] for l in languages[:10]])
+    lang_labels = json.dumps([lang["language"] for lang in languages[:10]])
+    lang_counts = json.dumps([lang["count"] for lang in languages[:10]])
     cat_labels = json.dumps([c["category"] for c in categories])
     cat_counts = json.dumps([c["count"] for c in categories])
 

@@ -2,8 +2,6 @@
 
 import logging
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
-
 try:
     from src.utils import (
         DATA_PROCESSED,
