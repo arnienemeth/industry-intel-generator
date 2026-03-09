@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-09",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-03-09.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-03-09.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 32,
+      "percentage": 32.0,
+      "total_stars": 21637
+    },
+    {
+      "language": "TypeScript",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 6321
+    },
+    {
+      "language": "Rust",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 2875
+    },
+    {
+      "language": "Unknown",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 3963
+    },
+    {
+      "language": "JavaScript",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 1245
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 929
+    },
+    {
+      "language": "Go",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 701
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 532
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 405
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1402
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 567
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 251
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 156
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 131
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 122
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "language": "Python",
+      "stars": 10615,
+      "forks": 1427,
+      "engagement_ratio": 0.134,
+      "category": "AI/ML",
+      "url": "https://github.com/karpathy/autoresearch"
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "language": "Python",
+      "stars": 2438,
+      "forks": 411,
+      "engagement_ratio": 0.169,
+      "category": "AI/ML",
+      "url": "https://github.com/elder-plinius/OBLITERATUS"
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "Unknown",
+      "stars": 1424,
+      "forks": 41,
+      "engagement_ratio": 0.029,
+      "category": "AI/ML",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    },
+    {
+      "name": "duoan/TorchCode",
+      "description": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading",
+      "language": "Jupyter Notebook",
+      "stars": 1274,
+      "forks": 86,
+      "engagement_ratio": 0.068,
+      "category": "AI/ML",
+      "url": "https://github.com/duoan/TorchCode"
+    },
+    {
+      "name": "cyxzdev/Uncodixfy",
+      "description": "the holly uncodexify instructions - letting GPT create uncodexified UI",
+      "language": "Unknown",
+      "stars": 1095,
+      "forks": 83,
+      "engagement_ratio": 0.076,
+      "category": "AI/ML",
+      "url": "https://github.com/cyxzdev/Uncodixfy"
+    },
+    {
+      "name": "viperrcrypto/Siftly",
+      "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
+      "language": "TypeScript",
+      "stars": 1056,
+      "forks": 80,
+      "engagement_ratio": 0.076,
+      "category": "AI/ML",
+      "url": "https://github.com/viperrcrypto/Siftly"
+    },
+    {
+      "name": "tanishqkumar/ssd",
+      "description": "A lightweight inference engine supporting speculative speculative decoding (SSD). ",
+      "language": "Python",
+      "stars": 719,
+      "forks": 44,
+      "engagement_ratio": 0.061,
+      "category": "Other",
+      "url": "https://github.com/tanishqkumar/ssd"
+    },
+    {
+      "name": "op7418/Claude-to-IM-skill",
+      "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+      "language": "TypeScript",
+      "stars": 691,
+      "forks": 85,
+      "engagement_ratio": 0.123,
+      "category": "AI/ML",
+      "url": "https://github.com/op7418/Claude-to-IM-skill"
+    },
+    {
+      "name": "Flowseal/tg-ws-proxy",
+      "description": "Local SOCKS5 proxy server for partial bypassing of Telegram loading",
+      "language": "Python",
+      "stars": 655,
+      "forks": 8,
+      "engagement_ratio": 0.012,
+      "category": "Other",
+      "url": "https://github.com/Flowseal/tg-ws-proxy"
+    },
+    {
+      "name": "hicode002/qualcomm_gbl_exploit_poc",
+      "description": "Unlocking qualcomm bootloader via gbl exploit.",
+      "language": "C",
+      "stars": 567,
+      "forks": 201,
+      "engagement_ratio": 0.354,
+      "category": "Other",
+      "url": "https://github.com/hicode002/qualcomm_gbl_exploit_poc"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 153.3,
+    "avg_comments": 74.9,
+    "max_score": 543,
+    "top_5_stories": [
+      {
+        "title": "Ask HN: Please restrict new accounts from posting",
+        "url": "",
+        "score": 543,
+        "comments": 410,
+        "author": "Oras"
+      },
+      {
+        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+        "url": "https://agent-safehouse.dev/",
+        "score": 515,
+        "comments": 117,
+        "author": "atombender"
+      },
+      {
+        "title": "FrameBook",
+        "url": "https://fb.edoo.gg",
+        "score": 396,
+        "comments": 67,
+        "author": "todsacerdoti"
+      },
+      {
+        "title": "Ask HN: How to be alone?",
+        "url": "",
+        "score": 391,
+        "comments": 274,
+        "author": "sillysaurusx"
+      },
+      {
+        "title": "Microscopes can see video on a laserdisc",
+        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+        "score": 370,
+        "comments": 36,
+        "author": "zdw"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 41237,
+    "avg_stars": 412.4
+  }
+}
