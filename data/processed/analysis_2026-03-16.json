@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-16",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-03-16.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-03-16.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 25,
+      "percentage": 25.0,
+      "total_stars": 28023
+    },
+    {
+      "language": "Python",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 7613
+    },
+    {
+      "language": "Unknown",
+      "count": 19,
+      "percentage": 19.0,
+      "total_stars": 6170
+    },
+    {
+      "language": "JavaScript",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 4316
+    },
+    {
+      "language": "Rust",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1273
+    },
+    {
+      "language": "Shell",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1271
+    },
+    {
+      "language": "HTML",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1231
+    },
+    {
+      "language": "Java",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 336
+    },
+    {
+      "language": "GDScript",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 361
+    },
+    {
+      "language": "MoonBit",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 324
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 227
+    },
+    {
+      "language": "Svelte",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 146
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 135
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engi",
+      "language": "TypeScript",
+      "stars": 14801,
+      "forks": 1686,
+      "engagement_ratio": 0.114,
+      "category": "Other",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "name": "davebcn87/pi-autoresearch",
+      "description": "Autonomous experiment loop extension for pi",
+      "language": "TypeScript",
+      "stars": 1885,
+      "forks": 93,
+      "engagement_ratio": 0.049,
+      "category": "Other",
+      "url": "https://github.com/davebcn87/pi-autoresearch"
+    },
+    {
+      "name": "TianyiDataScience/openclaw-control-center",
+      "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control.",
+      "language": "TypeScript",
+      "stars": 1792,
+      "forks": 244,
+      "engagement_ratio": 0.136,
+      "category": "Data Engineering",
+      "url": "https://github.com/TianyiDataScience/openclaw-control-center"
+    },
+    {
+      "name": "pasky/chrome-cdp-skill",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "language": "JavaScript",
+      "stars": 1658,
+      "forks": 90,
+      "engagement_ratio": 0.054,
+      "category": "AI/ML",
+      "url": "https://github.com/pasky/chrome-cdp-skill"
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discove",
+      "language": "Python",
+      "stars": 1448,
+      "forks": 137,
+      "engagement_ratio": 0.095,
+      "category": "AI/ML",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    },
+    {
+      "name": "gsd-build/gsd-2",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long p",
+      "language": "TypeScript",
+      "stars": 1404,
+      "forks": 119,
+      "engagement_ratio": 0.085,
+      "category": "Other",
+      "url": "https://github.com/gsd-build/gsd-2"
+    },
+    {
+      "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
+      "description": "",
+      "language": "Unknown",
+      "stars": 1112,
+      "forks": 266,
+      "engagement_ratio": 0.239,
+      "category": "Other",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket"
+    },
+    {
+      "name": "skernelx/tavily-key-generator",
+      "description": "Auto batch register Tavily API Keys with pluggable email backends",
+      "language": "Python",
+      "stars": 1003,
+      "forks": 735,
+      "engagement_ratio": 0.733,
+      "category": "Web Development",
+      "url": "https://github.com/skernelx/tavily-key-generator"
+    },
+    {
+      "name": "Narcooo/inkos",
+      "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
+      "language": "TypeScript",
+      "stars": 930,
+      "forks": 191,
+      "engagement_ratio": 0.205,
+      "category": "AI/ML",
+      "url": "https://github.com/Narcooo/inkos"
+    },
+    {
+      "name": "chrisworsey55/atlas-gic",
+      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+      "language": "Unknown",
+      "stars": 807,
+      "forks": 170,
+      "engagement_ratio": 0.211,
+      "category": "AI/ML",
+      "url": "https://github.com/chrisworsey55/atlas-gic"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 46,
+      "percentage": 46.0
+    },
+    {
+      "category": "Other",
+      "count": 32,
+      "percentage": 32.0
+    },
+    {
+      "category": "Web Development",
+      "count": 10,
+      "percentage": 10.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 139.3,
+    "avg_comments": 71.3,
+    "max_score": 599,
+    "top_5_stories": [
+      {
+        "title": "Canada's bill C-22 mandates mass metadata surveillance",
+        "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "score": 599,
+        "comments": 170,
+        "author": "opengrass"
+      },
+      {
+        "title": "The 49MB web page",
+        "url": "https://thatshubham.com/blog/news-audit",
+        "score": 450,
+        "comments": 212,
+        "author": "kermatt"
+      },
+      {
+        "title": "Chrome DevTools MCP (2025)",
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "score": 439,
+        "comments": 183,
+        "author": "xnx"
+      },
+      {
+        "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+        "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+        "score": 391,
+        "comments": 350,
+        "author": "ZacnyLos"
+      },
+      {
+        "title": "LLM Architecture Gallery",
+        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "score": 353,
+        "comments": 27,
+        "author": "tzury"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 51426,
+    "avg_stars": 514.3
+  }
+}
