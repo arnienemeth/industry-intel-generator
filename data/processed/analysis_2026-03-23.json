@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-23",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-03-23.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-03-23.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 10975
+    },
+    {
+      "language": "Unknown",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 8457
+    },
+    {
+      "language": "TypeScript",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 5211
+    },
+    {
+      "language": "Rust",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 1289
+    },
+    {
+      "language": "JavaScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 992
+    },
+    {
+      "language": "HTML",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 764
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 743
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 618
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 921
+    },
+    {
+      "language": "Objective-C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1482
+    },
+    {
+      "language": "Swift",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 563
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 2429
+    },
+    {
+      "language": "Astro",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 728
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 723
+    },
+    {
+      "language": "Ruby",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 271
+    },
+    {
+      "language": "Solidity",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 222
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 181
+    },
+    {
+      "language": "YARA",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 164
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 155
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "HKUDS/ClawTeam",
+      "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
+      "language": "Python",
+      "stars": 2955,
+      "forks": 386,
+      "engagement_ratio": 0.131,
+      "category": "Other",
+      "url": "https://github.com/HKUDS/ClawTeam"
+    },
+    {
+      "name": "MiniMax-AI/skills",
+      "description": "",
+      "language": "C#",
+      "stars": 2429,
+      "forks": 139,
+      "engagement_ratio": 0.057,
+      "category": "AI/ML",
+      "url": "https://github.com/MiniMax-AI/skills"
+    },
+    {
+      "name": "VoltAgent/awesome-codex-subagents",
+      "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
+      "language": "Unknown",
+      "stars": 2134,
+      "forks": 178,
+      "engagement_ratio": 0.083,
+      "category": "AI/ML",
+      "url": "https://github.com/VoltAgent/awesome-codex-subagents"
+    },
+    {
+      "name": "danveloper/flash-moe",
+      "description": "Running a big model on a small laptop",
+      "language": "Objective-C",
+      "stars": 1349,
+      "forks": 125,
+      "engagement_ratio": 0.093,
+      "category": "Other",
+      "url": "https://github.com/danveloper/flash-moe"
+    },
+    {
+      "name": "dontbesilent2025/dbskill",
+      "description": "dontbesilent 的商业诊断 Skills for Claude Code",
+      "language": "Unknown",
+      "stars": 1061,
+      "forks": 179,
+      "engagement_ratio": 0.169,
+      "category": "Other",
+      "url": "https://github.com/dontbesilent2025/dbskill"
+    },
+    {
+      "name": "math-inc/OpenGauss",
+      "description": "",
+      "language": "Python",
+      "stars": 1034,
+      "forks": 85,
+      "engagement_ratio": 0.082,
+      "category": "Other",
+      "url": "https://github.com/math-inc/OpenGauss"
+    },
+    {
+      "name": "lxf746/any-auto-register",
+      "description": "",
+      "language": "Python",
+      "stars": 1008,
+      "forks": 505,
+      "engagement_ratio": 0.501,
+      "category": "Other",
+      "url": "https://github.com/lxf746/any-auto-register"
+    },
+    {
+      "name": "mattprusak/autoresearch-genealogy",
+      "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+      "language": "Unknown",
+      "stars": 881,
+      "forks": 74,
+      "engagement_ratio": 0.084,
+      "category": "AI/ML",
+      "url": "https://github.com/mattprusak/autoresearch-genealogy"
+    },
+    {
+      "name": "truongduy2611/app-store-preflight-skills",
+      "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+      "language": "Unknown",
+      "stars": 869,
+      "forks": 46,
+      "engagement_ratio": 0.053,
+      "category": "AI/ML",
+      "url": "https://github.com/truongduy2611/app-store-preflight-skills"
+    },
+    {
+      "name": "frank890417/taiwan-md",
+      "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
+      "language": "Astro",
+      "stars": 728,
+      "forks": 81,
+      "engagement_ratio": 0.111,
+      "category": "AI/ML",
+      "url": "https://github.com/frank890417/taiwan-md"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 42,
+      "percentage": 42.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 156.1,
+    "avg_comments": 82.5,
+    "max_score": 497,
+    "top_5_stories": [
+      {
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "score": 497,
+        "comments": 244,
+        "author": "JumpCrisscross"
+      },
+      {
+        "title": "The future of version control",
+        "url": "https://bramcohen.com/p/manyana",
+        "score": 491,
+        "comments": 273,
+        "author": "c17r"
+      },
+      {
+        "title": "Project Nomad – Knowledge That Never Goes Offline",
+        "url": "https://www.projectnomad.us",
+        "score": 411,
+        "comments": 141,
+        "author": "jensgk"
+      },
+      {
+        "title": "Windows native app development is a mess",
+        "url": "https://domenic.me/windows-native-dev/",
+        "score": 395,
+        "comments": 379,
+        "author": "domenicd"
+      },
+      {
+        "title": "Reports of code's death are greatly exaggerated",
+        "url": "https://stevekrouse.com/precision",
+        "score": 359,
+        "comments": 268,
+        "author": "stevekrouse"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 36888,
+    "avg_stars": 368.9
+  }
+}
