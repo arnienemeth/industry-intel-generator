@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "analysis_date": "2026-03-30",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-03-30.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-03-30.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 10348
+    },
+    {
+      "language": "TypeScript",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 7259
+    },
+    {
+      "language": "Unknown",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 7684
+    },
+    {
+      "language": "Rust",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 2551
+    },
+    {
+      "language": "Shell",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1075
+    },
+    {
+      "language": "Go",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 4728
+    },
+    {
+      "language": "Swift",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1940
+    },
+    {
+      "language": "JavaScript",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3476
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 973
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1222
+    },
+    {
+      "language": "Zig",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 330
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 860
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 156
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 156
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 130
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "larksuite/cli",
+      "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains includi",
+      "language": "Go",
+      "stars": 4002,
+      "forks": 177,
+      "engagement_ratio": 0.044,
+      "category": "AI/ML",
+      "url": "https://github.com/larksuite/cli"
+    },
+    {
+      "name": "HKUDS/OpenSpace",
+      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "language": "Python",
+      "stars": 2573,
+      "forks": 282,
+      "engagement_ratio": 0.11,
+      "category": "DevOps/Infra",
+      "url": "https://github.com/HKUDS/OpenSpace"
+    },
+    {
+      "name": "magnum6actual/flipoff",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.",
+      "language": "JavaScript",
+      "stars": 2446,
+      "forks": 294,
+      "engagement_ratio": 0.12,
+      "category": "Other",
+      "url": "https://github.com/magnum6actual/flipoff"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars": 2056,
+      "forks": 404,
+      "engagement_ratio": 0.196,
+      "category": "AI/ML",
+      "url": "https://github.com/elder-plinius/G0DM0D3"
+    },
+    {
+      "name": "alvinunreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "language": "Unknown",
+      "stars": 1958,
+      "forks": 152,
+      "engagement_ratio": 0.078,
+      "category": "AI/ML",
+      "url": "https://github.com/alvinunreal/awesome-opensource-ai"
+    },
+    {
+      "name": "nashsu/opencli-rs",
+      "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command.",
+      "language": "Rust",
+      "stars": 997,
+      "forks": 75,
+      "engagement_ratio": 0.075,
+      "category": "Web Development",
+      "url": "https://github.com/nashsu/opencli-rs"
+    },
+    {
+      "name": "qiuzhi2046/Qclaw",
+      "description": "不用命令行，小白也能轻松玩转 OpenClaw",
+      "language": "TypeScript",
+      "stars": 971,
+      "forks": 112,
+      "engagement_ratio": 0.115,
+      "category": "Other",
+      "url": "https://github.com/qiuzhi2046/Qclaw"
+    },
+    {
+      "name": "facebookresearch/tribev2",
+      "description": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction",
+      "language": "Jupyter Notebook",
+      "stars": 943,
+      "forks": 187,
+      "engagement_ratio": 0.198,
+      "category": "AI/ML",
+      "url": "https://github.com/facebookresearch/tribev2"
+    },
+    {
+      "name": "oaker-io/wewrite",
+      "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+      "language": "Python",
+      "stars": 893,
+      "forks": 150,
+      "engagement_ratio": 0.168,
+      "category": "AI/ML",
+      "url": "https://github.com/oaker-io/wewrite"
+    },
+    {
+      "name": "jxnxts/mcp-brasil",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "language": "Python",
+      "stars": 883,
+      "forks": 112,
+      "engagement_ratio": 0.127,
+      "category": "AI/ML",
+      "url": "https://github.com/jxnxts/mcp-brasil"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 46,
+      "percentage": 46.0
+    },
+    {
+      "category": "Other",
+      "count": 39,
+      "percentage": 39.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 177.6,
+    "avg_comments": 78.4,
+    "max_score": 1353,
+    "top_5_stories": [
+      {
+        "title": "Founder of GitLab battles cancer by founding companies",
+        "url": "https://sytse.com/cancer/",
+        "score": 1353,
+        "comments": 245,
+        "author": "bob_theslob646"
+      },
+      {
+        "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+        "url": "",
+        "score": 706,
+        "comments": 403,
+        "author": "hrncode"
+      },
+      {
+        "title": "Nitrile and latex gloves may cause overestimation of microplastics",
+        "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+        "score": 538,
+        "comments": 243,
+        "author": "giuliomagnifico"
+      },
+      {
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "score": 533,
+        "comments": 354,
+        "author": "alberto-m"
+      },
+      {
+        "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+        "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+        "score": 496,
+        "comments": 185,
+        "author": "speckx"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 42888,
+    "avg_stars": 428.9
+  }
+}
