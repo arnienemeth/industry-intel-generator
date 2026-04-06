@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "analysis_date": "2026-04-06",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-04-06.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-04-06.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 39,
+      "percentage": 39.0,
+      "total_stars": 90310
+    },
+    {
+      "language": "Python",
+      "count": 26,
+      "percentage": 26.0,
+      "total_stars": 31083
+    },
+    {
+      "language": "Unknown",
+      "count": 18,
+      "percentage": 18.0,
+      "total_stars": 26753
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 187398
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3785
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 19171
+    },
+    {
+      "language": "JavaScript",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1456
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 6137
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1410
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "ultraworkers/claw-code",
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https:",
+      "language": "Rust",
+      "stars": 171812,
+      "forks": 104130,
+      "engagement_ratio": 0.606,
+      "category": "Other",
+      "url": "https://github.com/ultraworkers/claw-code"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let codi",
+      "language": "HTML",
+      "stars": 17259,
+      "forks": 2139,
+      "engagement_ratio": 0.124,
+      "category": "Web Development",
+      "url": "https://github.com/VoltAgent/awesome-design-md"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models ",
+      "language": "TypeScript",
+      "stars": 16753,
+      "forks": 5881,
+      "engagement_ratio": 0.351,
+      "category": "AI/ML",
+      "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "name": "claude-code-best/claude-code",
+      "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+      "language": "TypeScript",
+      "stars": 13986,
+      "forks": 14118,
+      "engagement_ratio": 1.009,
+      "category": "Other",
+      "url": "https://github.com/claude-code-best/claude-code"
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "description": "Research on Coding Agents",
+      "language": "Unknown",
+      "stars": 11349,
+      "forks": 19659,
+      "engagement_ratio": 1.732,
+      "category": "Other",
+      "url": "https://github.com/sanbuphy/learn-coding-agent"
+    },
+    {
+      "name": "ChinaSiro/claude-code-sourcemap",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 8471,
+      "forks": 14130,
+      "engagement_ratio": 1.668,
+      "category": "Other",
+      "url": "https://github.com/ChinaSiro/claude-code-sourcemap"
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
+      "language": "Rust",
+      "stars": 8368,
+      "forks": 7589,
+      "engagement_ratio": 0.907,
+      "category": "Other",
+      "url": "https://github.com/Kuberwastaken/claurst"
+    },
+    {
+      "name": "emdash-cms/emdash",
+      "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
+      "language": "TypeScript",
+      "stars": 7529,
+      "forks": 540,
+      "engagement_ratio": 0.072,
+      "category": "Other",
+      "url": "https://github.com/emdash-cms/emdash"
+    },
+    {
+      "name": "ultraworkers/claw-code-parity",
+      "description": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code rep",
+      "language": "Rust",
+      "stars": 6518,
+      "forks": 5384,
+      "engagement_ratio": 0.826,
+      "category": "Other",
+      "url": "https://github.com/ultraworkers/claw-code-parity"
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "description": "\"OpenHarness: Open Agent Harness\"",
+      "language": "Python",
+      "stars": 5587,
+      "forks": 961,
+      "engagement_ratio": 0.172,
+      "category": "Other",
+      "url": "https://github.com/HKUDS/OpenHarness"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 52,
+      "percentage": 52.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 162.9,
+    "avg_comments": 72.8,
+    "max_score": 857,
+    "top_5_stories": [
+      {
+        "title": "The threat is comfortable drift toward not understanding what you're doing",
+        "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+        "score": 857,
+        "comments": 570,
+        "author": "zaikunzhang"
+      },
+      {
+        "title": "Caveman: Why use many token when few token do trick",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "score": 752,
+        "comments": 327,
+        "author": "tosh"
+      },
+      {
+        "title": "Eight years of wanting, three months of building with AI",
+        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+        "score": 750,
+        "comments": 227,
+        "author": "brilee"
+      },
+      {
+        "title": "Gemma 4 on iPhone",
+        "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+        "score": 567,
+        "comments": 149,
+        "author": "janandonly"
+      },
+      {
+        "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+        "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+        "score": 465,
+        "comments": 362,
+        "author": "mooreds"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 367503,
+    "avg_stars": 3675.0
+  }
+}
