@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "analysis_date": "2026-04-13",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-04-13.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-04-13.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 5629
+    },
+    {
+      "language": "Python",
+      "count": 23,
+      "percentage": 23.0,
+      "total_stars": 9131
+    },
+    {
+      "language": "Unknown",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 4450
+    },
+    {
+      "language": "C++",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 1288
+    },
+    {
+      "language": "HTML",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 1533
+    },
+    {
+      "language": "JavaScript",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 2052
+    },
+    {
+      "language": "Swift",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 5441
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1644
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1605
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 502
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 352
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 161
+    },
+    {
+      "language": "Dart",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 120
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "farzaa/clicky",
+      "description": "",
+      "language": "Swift",
+      "stars": 3984,
+      "forks": 704,
+      "engagement_ratio": 0.177,
+      "category": "Other",
+      "url": "https://github.com/farzaa/clicky"
+    },
+    {
+      "name": "alchaincyf/hermes-agent-orange-book",
+      "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+      "language": "Unknown",
+      "stars": 2187,
+      "forks": 240,
+      "engagement_ratio": 0.11,
+      "category": "AI/ML",
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+    },
+    {
+      "name": "yizhiyanhua-ai/fireworks-tech-graph",
+      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual style",
+      "language": "Python",
+      "stars": 1733,
+      "forks": 127,
+      "engagement_ratio": 0.073,
+      "category": "AI/ML",
+      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
+    },
+    {
+      "name": "mattmireles/gemma-tuner-multimodal",
+      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
+      "language": "Python",
+      "stars": 1239,
+      "forks": 80,
+      "engagement_ratio": 0.065,
+      "category": "Other",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal"
+    },
+    {
+      "name": "QLHazyCoder/codex-oauth-automation-extension",
+      "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+      "language": "JavaScript",
+      "stars": 1063,
+      "forks": 226,
+      "engagement_ratio": 0.213,
+      "category": "AI/ML",
+      "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base",
+      "language": "TypeScript",
+      "stars": 1001,
+      "forks": 113,
+      "engagement_ratio": 0.113,
+      "category": "AI/ML",
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "name": "phuryn/claude-usage",
+      "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a p",
+      "language": "Python",
+      "stars": 882,
+      "forks": 130,
+      "engagement_ratio": 0.147,
+      "category": "Other",
+      "url": "https://github.com/phuryn/claude-usage"
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "language": "Python",
+      "stars": 757,
+      "forks": 80,
+      "engagement_ratio": 0.106,
+      "category": "AI/ML",
+      "url": "https://github.com/joeynyc/hermes-hudui"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /s",
+      "language": "Shell",
+      "stars": 754,
+      "forks": 72,
+      "engagement_ratio": 0.095,
+      "category": "AI/ML",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "name": "vyfor/rattles",
+      "description": "🪇 Minimal terminal spinners for Rust",
+      "language": "Rust",
+      "stars": 685,
+      "forks": 13,
+      "engagement_ratio": 0.019,
+      "category": "Other",
+      "url": "https://github.com/vyfor/rattles"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 47,
+      "percentage": 47.0
+    },
+    {
+      "category": "Other",
+      "count": 35,
+      "percentage": 35.0
+    },
+    {
+      "category": "Web Development",
+      "count": 8,
+      "percentage": 8.0
+    },
+    {
+      "category": "Mobile",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 212.0,
+    "avg_comments": 115.3,
+    "max_score": 872,
+    "top_5_stories": [
+      {
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "score": 872,
+        "comments": 478,
+        "author": "tradertef"
+      },
+      {
+        "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+        "url": "",
+        "score": 814,
+        "comments": 305,
+        "author": "littlecranky67"
+      },
+      {
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "score": 609,
+        "comments": 545,
+        "author": "cmaster11"
+      },
+      {
+        "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "score": 563,
+        "comments": 311,
+        "author": "mpweiher"
+      },
+      {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "score": 532,
+        "comments": 289,
+        "author": "phil294"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 33908,
+    "avg_stars": 339.1
+  }
+}
