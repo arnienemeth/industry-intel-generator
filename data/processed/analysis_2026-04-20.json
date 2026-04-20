@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "analysis_date": "2026-04-20",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-04-20.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-04-20.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 29,
+      "percentage": 29.0,
+      "total_stars": 14735
+    },
+    {
+      "language": "Unknown",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 6306
+    },
+    {
+      "language": "TypeScript",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 4902
+    },
+    {
+      "language": "Rust",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 2377
+    },
+    {
+      "language": "JavaScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2674
+    },
+    {
+      "language": "HTML",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3141
+    },
+    {
+      "language": "Swift",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 831
+    },
+    {
+      "language": "C++",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1825
+    },
+    {
+      "language": "Java",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 593
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 995
+    },
+    {
+      "language": "C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 315
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 274
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 207
+    },
+    {
+      "language": "Astro",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 147
+    },
+    {
+      "language": "Assembly",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 143
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 133
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": 2795,
+      "forks": 218,
+      "engagement_ratio": 0.078,
+      "category": "Data Engineering",
+      "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "language": "Python",
+      "stars": 2722,
+      "forks": 216,
+      "engagement_ratio": 0.079,
+      "category": "AI/ML",
+      "url": "https://github.com/browser-use/browser-harness"
+    },
+    {
+      "name": "kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research",
+      "language": "Python",
+      "stars": 2169,
+      "forks": 403,
+      "engagement_ratio": 0.186,
+      "category": "AI/ML",
+      "url": "https://github.com/kyegomez/OpenMythos"
+    },
+    {
+      "name": "vercel-labs/wterm",
+      "description": "A terminal emulator for the web",
+      "language": "TypeScript",
+      "stars": 2131,
+      "forks": 80,
+      "engagement_ratio": 0.038,
+      "category": "Web Development",
+      "url": "https://github.com/vercel-labs/wterm"
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "description": "The Red Sun vulnerability repository",
+      "language": "C++",
+      "stars": 1595,
+      "forks": 349,
+      "engagement_ratio": 0.219,
+      "category": "Security",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun"
+    },
+    {
+      "name": "lewislulu/html-ppt-skill",
+      "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+      "language": "HTML",
+      "stars": 1527,
+      "forks": 175,
+      "engagement_ratio": 0.115,
+      "category": "AI/ML",
+      "url": "https://github.com/lewislulu/html-ppt-skill"
+    },
+    {
+      "name": "Manavarya09/design-extract",
+      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for",
+      "language": "JavaScript",
+      "stars": 1104,
+      "forks": 86,
+      "engagement_ratio": 0.078,
+      "category": "Mobile",
+      "url": "https://github.com/Manavarya09/design-extract"
+    },
+    {
+      "name": "BuilderPulse/BuilderPulse",
+      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+      "language": "Unknown",
+      "stars": 991,
+      "forks": 71,
+      "engagement_ratio": 0.072,
+      "category": "AI/ML",
+      "url": "https://github.com/BuilderPulse/BuilderPulse"
+    },
+    {
+      "name": "wbh604/UZI-Skill",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "language": "Python",
+      "stars": 894,
+      "forks": 154,
+      "engagement_ratio": 0.172,
+      "category": "Other",
+      "url": "https://github.com/wbh604/UZI-Skill"
+    },
+    {
+      "name": "WeaveMindAI/weft",
+      "description": "A programming language for AI systems",
+      "language": "Rust",
+      "stars": 892,
+      "forks": 117,
+      "engagement_ratio": 0.131,
+      "category": "AI/ML",
+      "url": "https://github.com/WeaveMindAI/weft"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 45,
+      "percentage": 45.0
+    },
+    {
+      "category": "Other",
+      "count": 33,
+      "percentage": 33.0
+    },
+    {
+      "category": "Web Development",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 125.0,
+    "avg_comments": 58.4,
+    "max_score": 711,
+    "top_5_stories": [
+      {
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "score": 711,
+        "comments": 402,
+        "author": "colesantiago"
+      },
+      {
+        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
+        "score": 568,
+        "comments": 147,
+        "author": "DamnInteresting"
+      },
+      {
+        "title": "Game devs explain the tricks involved with letting you pause a game",
+        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+        "score": 424,
+        "comments": 232,
+        "author": "speckx"
+      },
+      {
+        "title": "Notion leaks email addresses of all editors of any public page",
+        "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+        "score": 366,
+        "comments": 130,
+        "author": "Tiberium"
+      },
+      {
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "score": 325,
+        "comments": 128,
+        "author": "helloplanets"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 39598,
+    "avg_stars": 396.0
+  }
+}
