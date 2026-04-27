@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "analysis_date": "2026-04-27",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-04-27.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-04-27.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 23,
+      "percentage": 23.0,
+      "total_stars": 9877
+    },
+    {
+      "language": "TypeScript",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 4728
+    },
+    {
+      "language": "C++",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 1960
+    },
+    {
+      "language": "Unknown",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 3754
+    },
+    {
+      "language": "JavaScript",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 5264
+    },
+    {
+      "language": "Go",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 1648
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 771
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 3343
+    },
+    {
+      "language": "Rust",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 927
+    },
+    {
+      "language": "QML",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 203
+    },
+    {
+      "language": "Lua",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 160
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 151
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 111
+    },
+    {
+      "language": "Cangjie",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 112
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "op7418/guizang-ppt-skill",
+      "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, W",
+      "language": "HTML",
+      "stars": 3215,
+      "forks": 340,
+      "engagement_ratio": 0.106,
+      "category": "AI/ML",
+      "url": "https://github.com/op7418/guizang-ppt-skill"
+    },
+    {
+      "name": "Einsia/OpenChronicle",
+      "description": "",
+      "language": "Python",
+      "stars": 1496,
+      "forks": 103,
+      "engagement_ratio": 0.069,
+      "category": "Other",
+      "url": "https://github.com/Einsia/OpenChronicle"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "JavaScript",
+      "stars": 1460,
+      "forks": 266,
+      "engagement_ratio": 0.182,
+      "category": "AI/ML",
+      "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "name": "deepseek-ai/TileKernels",
+      "description": "A kernel library written in tilelang",
+      "language": "Python",
+      "stars": 1244,
+      "forks": 98,
+      "engagement_ratio": 0.079,
+      "category": "AI/ML",
+      "url": "https://github.com/deepseek-ai/TileKernels"
+    },
+    {
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+      "language": "Unknown",
+      "stars": 1177,
+      "forks": 56,
+      "engagement_ratio": 0.048,
+      "category": "Other",
+      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct"
+    },
+    {
+      "name": "openclaw/clawsweeper",
+      "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
+      "language": "JavaScript",
+      "stars": 1071,
+      "forks": 116,
+      "engagement_ratio": 0.108,
+      "category": "Other",
+      "url": "https://github.com/openclaw/clawsweeper"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+      "language": "Unknown",
+      "stars": 935,
+      "forks": 183,
+      "engagement_ratio": 0.196,
+      "category": "AI/ML",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "name": "Russell-cell/PPT-Design-Prompt",
+      "description": "",
+      "language": "Python",
+      "stars": 777,
+      "forks": 59,
+      "engagement_ratio": 0.076,
+      "category": "Other",
+      "url": "https://github.com/Russell-cell/PPT-Design-Prompt"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "An open source harness for generating CAD models",
+      "language": "JavaScript",
+      "stars": 769,
+      "forks": 124,
+      "engagement_ratio": 0.161,
+      "category": "AI/ML",
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implement",
+      "language": "Rust",
+      "stars": 768,
+      "forks": 88,
+      "engagement_ratio": 0.115,
+      "category": "AI/ML",
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Other",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Web Development",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 152.7,
+    "avg_comments": 77.3,
+    "max_score": 732,
+    "top_5_stories": [
+      {
+        "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "score": 732,
+        "comments": 384,
+        "author": "ca98am79"
+      },
+      {
+        "title": "An AI agent deleted our production database. The agent's confession is below",
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "score": 638,
+        "comments": 794,
+        "author": "jeremyccrane"
+      },
+      {
+        "title": "Asahi Linux Progress Linux 7.0",
+        "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+        "score": 617,
+        "comments": 312,
+        "author": "elisaado"
+      },
+      {
+        "title": "GoDaddy gave a domain to a stranger without any documentation",
+        "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+        "score": 593,
+        "comments": 231,
+        "author": "jamesponddotco"
+      },
+      {
+        "title": "AI should elevate your thinking, not replace it",
+        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "score": 450,
+        "comments": 330,
+        "author": "koshyjohn"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 33009,
+    "avg_stars": 330.1
+  }
+}
