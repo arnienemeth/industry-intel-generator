@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "analysis_date": "2026-05-04",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-05-04.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-05-04.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Unknown",
+      "count": 39,
+      "percentage": 39.0,
+      "total_stars": 9292
+    },
+    {
+      "language": "TypeScript",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 27603
+    },
+    {
+      "language": "C++",
+      "count": 14,
+      "percentage": 14.0,
+      "total_stars": 2811
+    },
+    {
+      "language": "Python",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 6438
+    },
+    {
+      "language": "JavaScript",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1616
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 2130
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 951
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 746
+    },
+    {
+      "language": "Vue",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 788
+    },
+    {
+      "language": "Assembly",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 308
+    },
+    {
+      "language": "Rust",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 277
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 267
+    },
+    {
+      "language": "PHP",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 171
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 163
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "nexu-io/open-design",
+      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Gen",
+      "language": "TypeScript",
+      "stars": 20894,
+      "forks": 2308,
+      "engagement_ratio": 0.11,
+      "category": "AI/ML",
+      "url": "https://github.com/nexu-io/open-design"
+    },
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "description": "",
+      "language": "Python",
+      "stars": 3067,
+      "forks": 643,
+      "engagement_ratio": 0.21,
+      "category": "AI/ML",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+    },
+    {
+      "name": "willchen96/mike",
+      "description": "OSS AI Legal Platform",
+      "language": "TypeScript",
+      "stars": 1759,
+      "forks": 458,
+      "engagement_ratio": 0.26,
+      "category": "AI/ML",
+      "url": "https://github.com/willchen96/mike"
+    },
+    {
+      "name": "darrylmorley/whatcable",
+      "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "language": "Swift",
+      "stars": 1519,
+      "forks": 33,
+      "engagement_ratio": 0.022,
+      "category": "AI/ML",
+      "url": "https://github.com/darrylmorley/whatcable"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "description": "AI coding jargon, explained in plain English.",
+      "language": "TypeScript",
+      "stars": 878,
+      "forks": 119,
+      "engagement_ratio": 0.136,
+      "category": "AI/ML",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
+    },
+    {
+      "name": "b-nnett/codex-plusplus",
+      "description": "Codex++ tweak system for the Codex desktop app",
+      "language": "TypeScript",
+      "stars": 864,
+      "forks": 42,
+      "engagement_ratio": 0.049,
+      "category": "Other",
+      "url": "https://github.com/b-nnett/codex-plusplus"
+    },
+    {
+      "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "description": "",
+      "language": "Unknown",
+      "stars": 838,
+      "forks": 310,
+      "engagement_ratio": 0.37,
+      "category": "Other",
+      "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    },
+    {
+      "name": "t8y2/dbx",
+      "description": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse",
+      "language": "Vue",
+      "stars": 788,
+      "forks": 44,
+      "engagement_ratio": 0.056,
+      "category": "Data Engineering",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    {
+      "name": "GENEXIS-AI/chromex",
+      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+      "language": "TypeScript",
+      "stars": 781,
+      "forks": 67,
+      "engagement_ratio": 0.086,
+      "category": "AI/ML",
+      "url": "https://github.com/GENEXIS-AI/chromex"
+    },
+    {
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
+      "language": "Python",
+      "stars": 682,
+      "forks": 147,
+      "engagement_ratio": 0.216,
+      "category": "Other",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 42,
+      "percentage": 42.0
+    },
+    {
+      "category": "Other",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Web Development",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 168.7,
+    "avg_comments": 97.5,
+    "max_score": 683,
+    "top_5_stories": [
+      {
+        "title": "Mercedes-Benz commits to bringing back physical buttons",
+        "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+        "score": 683,
+        "comments": 387,
+        "author": "teleforce"
+      },
+      {
+        "title": "DeepSeek V4 – almost on the frontier",
+        "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+        "score": 634,
+        "comments": 374,
+        "author": "indigodaddy"
+      },
+      {
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+        "url": "https://github.com/aattaran/deepclaude",
+        "score": 415,
+        "comments": 156,
+        "author": "alattaran"
+      },
+      {
+        "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "score": 383,
+        "comments": 328,
+        "author": "donsupreme"
+      },
+      {
+        "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+        "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+        "score": 374,
+        "comments": 325,
+        "author": "dryadin"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Unknown",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 53561,
+    "avg_stars": 535.6
+  }
+}
