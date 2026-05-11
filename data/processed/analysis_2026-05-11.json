@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "analysis_date": "2026-05-11",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-05-11.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-05-11.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 19,
+      "percentage": 19.0,
+      "total_stars": 5614
+    },
+    {
+      "language": "Python",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 6435
+    },
+    {
+      "language": "C++",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 3063
+    },
+    {
+      "language": "JavaScript",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 2338
+    },
+    {
+      "language": "Unknown",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 2114
+    },
+    {
+      "language": "Swift",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1787
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1253
+    },
+    {
+      "language": "C",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 11227
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 2044
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1144
+    },
+    {
+      "language": "Java",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 561
+    },
+    {
+      "language": "Dockerfile",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 777
+    },
+    {
+      "language": "Kotlin",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 444
+    },
+    {
+      "language": "PowerShell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 365
+    },
+    {
+      "language": "C#",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 342
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 2421
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 397
+    },
+    {
+      "language": "Vue",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 295
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 276
+    },
+    {
+      "language": "MQL5",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 241
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 181
+    },
+    {
+      "language": "Svelte",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 151
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "antirez/ds4",
+      "description": "DeepSeek 4 Flash local inference engine for Metal",
+      "language": "C",
+      "stars": 6836,
+      "forks": 490,
+      "engagement_ratio": 0.072,
+      "category": "Other",
+      "url": "https://github.com/antirez/ds4"
+    },
+    {
+      "name": "V4bel/dirtyfrag",
+      "description": "",
+      "language": "C",
+      "stars": 4106,
+      "forks": 614,
+      "engagement_ratio": 0.15,
+      "category": "Other",
+      "url": "https://github.com/V4bel/dirtyfrag"
+    },
+    {
+      "name": "vercel-labs/zero-native",
+      "description": "Build desktop + mobile apps with Zig and web UI",
+      "language": "Zig",
+      "stars": 2421,
+      "forks": 106,
+      "engagement_ratio": 0.044,
+      "category": "Web Development",
+      "url": "https://github.com/vercel-labs/zero-native"
+    },
+    {
+      "name": "strukto-ai/mirage",
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "language": "TypeScript",
+      "stars": 1836,
+      "forks": 111,
+      "engagement_ratio": 0.06,
+      "category": "AI/ML",
+      "url": "https://github.com/strukto-ai/mirage"
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-content",
+      "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-",
+      "language": "Shell",
+      "stars": 1607,
+      "forks": 325,
+      "engagement_ratio": 0.202,
+      "category": "Other",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content"
+    },
+    {
+      "name": "yaojingang/yao-open-prompts",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "language": "Python",
+      "stars": 1604,
+      "forks": 250,
+      "engagement_ratio": 0.156,
+      "category": "AI/ML",
+      "url": "https://github.com/yaojingang/yao-open-prompts"
+    },
+    {
+      "name": "huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "language": "JavaScript",
+      "stars": 1061,
+      "forks": 185,
+      "engagement_ratio": 0.174,
+      "category": "AI/ML",
+      "url": "https://github.com/huangserva/3DCellForge"
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "language": "Python",
+      "stars": 934,
+      "forks": 69,
+      "engagement_ratio": 0.074,
+      "category": "AI/ML",
+      "url": "https://github.com/lightseekorg/tokenspeed"
+    },
+    {
+      "name": "BigPizzaV3/CodexPlusPlus",
+      "description": "一个CodexApp的增强工具",
+      "language": "Python",
+      "stars": 857,
+      "forks": 53,
+      "engagement_ratio": 0.062,
+      "category": "Other",
+      "url": "https://github.com/BigPizzaV3/CodexPlusPlus"
+    },
+    {
+      "name": "zarazhangrui/beautiful-html-templates",
+      "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on th",
+      "language": "HTML",
+      "stars": 799,
+      "forks": 76,
+      "engagement_ratio": 0.095,
+      "category": "AI/ML",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Other",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 217.2,
+    "avg_comments": 115.9,
+    "max_score": 1468,
+    "top_5_stories": [
+      {
+        "title": "Hardware Attestation as Monopoly Enabler",
+        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+        "score": 1468,
+        "comments": 479,
+        "author": "ChuckMcM"
+      },
+      {
+        "title": "Local AI needs to be the norm",
+        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+        "score": 1089,
+        "comments": 465,
+        "author": "cylo"
+      },
+      {
+        "title": "I returned to AWS and was reminded why I left",
+        "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "score": 759,
+        "comments": 531,
+        "author": "andrewstuart"
+      },
+      {
+        "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "score": 695,
+        "comments": 675,
+        "author": "heldrida"
+      },
+      {
+        "title": "A recent experience with ChatGPT 5.5 Pro",
+        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+        "score": 692,
+        "comments": 520,
+        "author": "_alternator_"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 43470,
+    "avg_stars": 434.7
+  }
+}
