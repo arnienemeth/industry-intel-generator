@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "analysis_date": "2026-05-18",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-05-18.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-05-18.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Unknown",
+      "count": 42,
+      "percentage": 42.0,
+      "total_stars": 21831
+    },
+    {
+      "language": "TypeScript",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 5893
+    },
+    {
+      "language": "C++",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 6477
+    },
+    {
+      "language": "Python",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 4957
+    },
+    {
+      "language": "C#",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 2995
+    },
+    {
+      "language": "JavaScript",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1624
+    },
+    {
+      "language": "C",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3037
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 762
+    },
+    {
+      "language": "Rust",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 611
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 482
+    },
+    {
+      "language": "Lua",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 480
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 288
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 286
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "Nightmare-Eclipse/YellowKey",
+      "description": "YellowKey Bitlocker Bypass Vulnerability",
+      "language": "Unknown",
+      "stars": 3246,
+      "forks": 695,
+      "engagement_ratio": 0.214,
+      "category": "Security",
+      "url": "https://github.com/Nightmare-Eclipse/YellowKey"
+    },
+    {
+      "name": "vercel-labs/zero",
+      "description": "The programming language for agents",
+      "language": "C",
+      "stars": 1962,
+      "forks": 124,
+      "engagement_ratio": 0.063,
+      "category": "Other",
+      "url": "https://github.com/vercel-labs/zero"
+    },
+    {
+      "name": "yetone/native-feel-skill",
+      "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and r",
+      "language": "Unknown",
+      "stars": 1296,
+      "forks": 61,
+      "engagement_ratio": 0.047,
+      "category": "Web Development",
+      "url": "https://github.com/yetone/native-feel-skill"
+    },
+    {
+      "name": "ywnd1144/Gopay_plus_automatic",
+      "description": "",
+      "language": "Python",
+      "stars": 926,
+      "forks": 540,
+      "engagement_ratio": 0.583,
+      "category": "Other",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic"
+    },
+    {
+      "name": "facebookresearch/vggt-omega",
+      "description": "[CVPR 2026 Oral] VGGT Omega",
+      "language": "Python",
+      "stars": 869,
+      "forks": 17,
+      "engagement_ratio": 0.02,
+      "category": "Other",
+      "url": "https://github.com/facebookresearch/vggt-omega"
+    },
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+      "language": "Unknown",
+      "stars": 764,
+      "forks": 65,
+      "engagement_ratio": 0.085,
+      "category": "AI/ML",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+    },
+    {
+      "name": "DepthFirstDisclosures/Nginx-Rift",
+      "description": "exploit for CVE-2026-42945",
+      "language": "Python",
+      "stars": 691,
+      "forks": 117,
+      "engagement_ratio": 0.169,
+      "category": "Other",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+    },
+    {
+      "name": "Kappaemme-git/codex-complexity-optimizer",
+      "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+      "language": "Python",
+      "stars": 690,
+      "forks": 37,
+      "engagement_ratio": 0.054,
+      "category": "Other",
+      "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
+    },
+    {
+      "name": "yaassin12/DeepSeek-V4-Pro-App",
+      "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro c",
+      "language": "C++",
+      "stars": 618,
+      "forks": 2,
+      "engagement_ratio": 0.003,
+      "category": "Web Development",
+      "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App"
+    },
+    {
+      "name": "chrisbanes/skills",
+      "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+      "language": "Unknown",
+      "stars": 616,
+      "forks": 29,
+      "engagement_ratio": 0.047,
+      "category": "Mobile",
+      "url": "https://github.com/chrisbanes/skills"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 30,
+      "percentage": 30.0
+    },
+    {
+      "category": "Web Development",
+      "count": 13,
+      "percentage": 13.0
+    },
+    {
+      "category": "Security",
+      "count": 5,
+      "percentage": 5.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 167.0,
+    "avg_comments": 83.6,
+    "max_score": 740,
+    "top_5_stories": [
+      {
+        "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+        "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+        "score": 740,
+        "comments": 319,
+        "author": "WithinReason"
+      },
+      {
+        "title": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "score": 591,
+        "comments": 405,
+        "author": "TheEdonian"
+      },
+      {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "score": 548,
+        "comments": 303,
+        "author": "gidellav"
+      },
+      {
+        "title": "Native all the way, until you need text",
+        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "score": 420,
+        "comments": 280,
+        "author": "dive"
+      },
+      {
+        "title": "AI is a technology not a product",
+        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "score": 407,
+        "comments": 175,
+        "author": "ch_sm"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Unknown",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 49723,
+    "avg_stars": 497.2
+  }
+}
