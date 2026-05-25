@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "analysis_date": "2026-05-25",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-05-25.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-05-25.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 25,
+      "percentage": 25.0,
+      "total_stars": 6176
+    },
+    {
+      "language": "Unknown",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 8024
+    },
+    {
+      "language": "Python",
+      "count": 14,
+      "percentage": 14.0,
+      "total_stars": 3921
+    },
+    {
+      "language": "C#",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 3210
+    },
+    {
+      "language": "JavaScript",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 4606
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 2647
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 963
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 2473
+    },
+    {
+      "language": "PowerShell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 515
+    },
+    {
+      "language": "Java",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 411
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 415
+    },
+    {
+      "language": "Rust",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 344
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 663
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 350
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "FoundZiGu/GuJumpgate",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2454,
+      "forks": 676,
+      "engagement_ratio": 0.275,
+      "category": "Other",
+      "url": "https://github.com/FoundZiGu/GuJumpgate"
+    },
+    {
+      "name": "perplexityai/bumblebee",
+      "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposur",
+      "language": "Go",
+      "stars": 2328,
+      "forks": 181,
+      "engagement_ratio": 0.078,
+      "category": "AI/ML",
+      "url": "https://github.com/perplexityai/bumblebee"
+    },
+    {
+      "name": "thananon/9arm-skills",
+      "description": "",
+      "language": "Shell",
+      "stars": 2045,
+      "forks": 275,
+      "engagement_ratio": 0.134,
+      "category": "Other",
+      "url": "https://github.com/thananon/9arm-skills"
+    },
+    {
+      "name": "open-gsd/get-shit-done-redux",
+      "description": "Getting Shit Done, the Aftermath",
+      "language": "JavaScript",
+      "stars": 678,
+      "forks": 48,
+      "engagement_ratio": 0.071,
+      "category": "Other",
+      "url": "https://github.com/open-gsd/get-shit-done-redux"
+    },
+    {
+      "name": "kageroumado/phosphene",
+      "description": "A video wallpaper engine for macOS Tahoe",
+      "language": "Swift",
+      "stars": 663,
+      "forks": 17,
+      "engagement_ratio": 0.026,
+      "category": "Other",
+      "url": "https://github.com/kageroumado/phosphene"
+    },
+    {
+      "name": "Tong89/smartNode",
+      "description": "",
+      "language": "Python",
+      "stars": 575,
+      "forks": 51,
+      "engagement_ratio": 0.089,
+      "category": "Other",
+      "url": "https://github.com/Tong89/smartNode"
+    },
+    {
+      "name": "0xSero/codex-shim",
+      "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "language": "Python",
+      "stars": 504,
+      "forks": 41,
+      "engagement_ratio": 0.081,
+      "category": "AI/ML",
+      "url": "https://github.com/0xSero/codex-shim"
+    },
+    {
+      "name": "run-liyi/wechatpay",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "language": "JavaScript",
+      "stars": 448,
+      "forks": 37,
+      "engagement_ratio": 0.083,
+      "category": "Other",
+      "url": "https://github.com/run-liyi/wechatpay"
+    },
+    {
+      "name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
+      "description": "Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without rest",
+      "language": "Unknown",
+      "stars": 429,
+      "forks": 371,
+      "engagement_ratio": 0.865,
+      "category": "Other",
+      "url": "https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock"
+    },
+    {
+      "name": "jskblue/Tomodachi-Island-Life-Remastered",
+      "description": "New Tomodachi Life 2026 PC Edition 🏝️ Life Sim & Mii Creator for Windows 🎮",
+      "language": "Unknown",
+      "stars": 424,
+      "forks": 0,
+      "engagement_ratio": 0.0,
+      "category": "Other",
+      "url": "https://github.com/jskblue/Tomodachi-Island-Life-Remastered"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 48,
+      "percentage": 48.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Security",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 189.1,
+    "avg_comments": 119.2,
+    "max_score": 1063,
+    "top_5_stories": [
+      {
+        "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+        "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+        "score": 1063,
+        "comments": 1875,
+        "author": "tlhunter"
+      },
+      {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "score": 561,
+        "comments": 233,
+        "author": "Alifatisk"
+      },
+      {
+        "title": "I spent 50 hours drawing a line graph",
+        "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+        "score": 541,
+        "comments": 93,
+        "author": "dougdude3339"
+      },
+      {
+        "title": "Time to talk about my writerdeck",
+        "url": "https://veronicaexplains.net/my-first-writerdeck/",
+        "score": 481,
+        "comments": 286,
+        "author": "hggh"
+      },
+      {
+        "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "score": 474,
+        "comments": 167,
+        "author": "DamnInteresting"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 34718,
+    "avg_stars": 347.2
+  }
+}
