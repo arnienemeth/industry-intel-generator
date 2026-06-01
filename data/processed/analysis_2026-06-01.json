@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "analysis_date": "2026-06-01",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-06-01.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-06-01.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 27,
+      "percentage": 27.0,
+      "total_stars": 6907
+    },
+    {
+      "language": "Python",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 5689
+    },
+    {
+      "language": "C#",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 4147
+    },
+    {
+      "language": "Unknown",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 4124
+    },
+    {
+      "language": "JavaScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 14916
+    },
+    {
+      "language": "HTML",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 3173
+    },
+    {
+      "language": "C++",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1187
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 568
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1024
+    },
+    {
+      "language": "Rust",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 403
+    },
+    {
+      "language": "Haskell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 367
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 331
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 320
+    },
+    {
+      "language": "MDX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 190
+    },
+    {
+      "language": "Lean",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 180
+    },
+    {
+      "language": "PHP",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 167
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "pewdiepie-archdaemon/odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "language": "JavaScript",
+      "stars": 13276,
+      "forks": 1702,
+      "engagement_ratio": 0.128,
+      "category": "AI/ML",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+    },
+    {
+      "name": "op7418/guizang-social-card-skill",
+      "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual sys",
+      "language": "HTML",
+      "stars": 2330,
+      "forks": 237,
+      "engagement_ratio": 0.102,
+      "category": "AI/ML",
+      "url": "https://github.com/op7418/guizang-social-card-skill"
+    },
+    {
+      "name": "helloianneo/ian-xiaohei-illustrations",
+      "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+      "language": "Unknown",
+      "stars": 1568,
+      "forks": 138,
+      "engagement_ratio": 0.088,
+      "category": "AI/ML",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
+    },
+    {
+      "name": "GordenSun/GordenPPTSkill",
+      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python",
+      "language": "Python",
+      "stars": 1272,
+      "forks": 118,
+      "engagement_ratio": 0.093,
+      "category": "AI/ML",
+      "url": "https://github.com/GordenSun/GordenPPTSkill"
+    },
+    {
+      "name": "Sophomoresty/gemini-web2api",
+      "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "language": "Python",
+      "stars": 996,
+      "forks": 261,
+      "engagement_ratio": 0.262,
+      "category": "Web Development",
+      "url": "https://github.com/Sophomoresty/gemini-web2api"
+    },
+    {
+      "name": "MatinSenPai/SenPaiScanner",
+      "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "language": "Go",
+      "stars": 830,
+      "forks": 55,
+      "engagement_ratio": 0.066,
+      "category": "AI/ML",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner"
+    },
+    {
+      "name": "withkynam/vibecode-pro-max-kit",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — sel",
+      "language": "JavaScript",
+      "stars": 689,
+      "forks": 164,
+      "engagement_ratio": 0.238,
+      "category": "AI/ML",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit"
+    },
+    {
+      "name": "Michaelliv/pi-dynamic-workflows",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 654,
+      "forks": 37,
+      "engagement_ratio": 0.057,
+      "category": "Other",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
+      "name": "2aronS/Duel-Agents",
+      "description": "CLI, SDK, and IDE plugins for Duel Agents",
+      "language": "TypeScript",
+      "stars": 608,
+      "forks": 16,
+      "engagement_ratio": 0.026,
+      "category": "AI/ML",
+      "url": "https://github.com/2aronS/Duel-Agents"
+    },
+    {
+      "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+      "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim a",
+      "language": "Python",
+      "stars": 536,
+      "forks": 517,
+      "engagement_ratio": 0.965,
+      "category": "AI/ML",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 45,
+      "percentage": 45.0
+    },
+    {
+      "category": "Other",
+      "count": 40,
+      "percentage": 40.0
+    },
+    {
+      "category": "Web Development",
+      "count": 10,
+      "percentage": 10.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Security",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 148.0,
+    "avg_comments": 85.4,
+    "max_score": 687,
+    "top_5_stories": [
+      {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "score": 687,
+        "comments": 387,
+        "author": "HypnoticOcelot"
+      },
+      {
+        "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+        "url": "https://twitter.com/i/status/2060746160558543217",
+        "score": 562,
+        "comments": 268,
+        "author": "thunderbong"
+      },
+      {
+        "title": "The Website Specification",
+        "url": "https://specification.website/",
+        "score": 506,
+        "comments": 203,
+        "author": "k1m"
+      },
+      {
+        "title": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
+        "score": 496,
+        "comments": 175,
+        "author": "captain_bender"
+      },
+      {
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "score": 399,
+        "comments": 167,
+        "author": "modinfo"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 43693,
+    "avg_stars": 436.9
+  }
+}
