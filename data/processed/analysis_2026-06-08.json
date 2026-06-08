@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "analysis_date": "2026-06-08",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-06-08.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-06-08.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 26,
+      "percentage": 26.0,
+      "total_stars": 4619
+    },
+    {
+      "language": "TypeScript",
+      "count": 18,
+      "percentage": 18.0,
+      "total_stars": 5484
+    },
+    {
+      "language": "Unknown",
+      "count": 18,
+      "percentage": 18.0,
+      "total_stars": 2962
+    },
+    {
+      "language": "JavaScript",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 2129
+    },
+    {
+      "language": "C#",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 879
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3009
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 862
+    },
+    {
+      "language": "C++",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 447
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 456
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 398
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 246
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 148
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 138
+    },
+    {
+      "language": "Dockerfile",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 123
+    },
+    {
+      "language": "Assembly",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 101
+    },
+    {
+      "language": "Solidity",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 101
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 85
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "cpaczek/skylight",
+      "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon",
+      "language": "TypeScript",
+      "stars": 2316,
+      "forks": 232,
+      "engagement_ratio": 0.1,
+      "category": "AI/ML",
+      "url": "https://github.com/cpaczek/skylight"
+    },
+    {
+      "name": "b-nnett/goose",
+      "description": "Goose Swift proof-of-concept README",
+      "language": "Rust",
+      "stars": 2288,
+      "forks": 540,
+      "engagement_ratio": 0.236,
+      "category": "Mobile",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Echo",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "language": "Python",
+      "stars": 966,
+      "forks": 63,
+      "engagement_ratio": 0.065,
+      "category": "AI/ML",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo"
+    },
+    {
+      "name": "tastyeffectco/sandboxd",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "language": "Go",
+      "stars": 506,
+      "forks": 12,
+      "engagement_ratio": 0.024,
+      "category": "DevOps/Infra",
+      "url": "https://github.com/tastyeffectco/sandboxd"
+    },
+    {
+      "name": "Jane-xiaoer/xiaoer-videolab",
+      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前",
+      "language": "JavaScript",
+      "stars": 479,
+      "forks": 75,
+      "engagement_ratio": 0.157,
+      "category": "Other",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
+    },
+    {
+      "name": "JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks",
+      "language": "JavaScript",
+      "stars": 435,
+      "forks": 31,
+      "engagement_ratio": 0.071,
+      "category": "AI/ML",
+      "url": "https://github.com/JimLiu/baoyu-design"
+    },
+    {
+      "name": "zenhosta/9drive",
+      "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Us",
+      "language": "TypeScript",
+      "stars": 432,
+      "forks": 150,
+      "engagement_ratio": 0.347,
+      "category": "Web Development",
+      "url": "https://github.com/zenhosta/9drive"
+    },
+    {
+      "name": "nevertoday/zhongguo-traditional-colors",
+      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+      "language": "JavaScript",
+      "stars": 415,
+      "forks": 50,
+      "engagement_ratio": 0.12,
+      "category": "Other",
+      "url": "https://github.com/nevertoday/zhongguo-traditional-colors"
+    },
+    {
+      "name": "jeff141/meatshell",
+      "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+      "language": "Rust",
+      "stars": 408,
+      "forks": 47,
+      "engagement_ratio": 0.115,
+      "category": "Other",
+      "url": "https://github.com/jeff141/meatshell"
+    },
+    {
+      "name": "NoopApp/noop",
+      "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no sub",
+      "language": "Swift",
+      "stars": 398,
+      "forks": 383,
+      "engagement_ratio": 0.962,
+      "category": "AI/ML",
+      "url": "https://github.com/NoopApp/noop"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 45,
+      "percentage": 45.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 10,
+      "percentage": 10.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 172.9,
+    "avg_comments": 100.0,
+    "max_score": 979,
+    "top_5_stories": [
+      {
+        "title": "LLMs are eroding my software engineering career and I don't know what to do",
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+        "score": 979,
+        "comments": 940,
+        "author": "poisonfountain"
+      },
+      {
+        "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+        "url": "",
+        "score": 698,
+        "comments": 1081,
+        "author": "andrehacker"
+      },
+      {
+        "title": "Building from zero after addiction, prison, and a felony",
+        "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+        "score": 636,
+        "comments": 276,
+        "author": "gavinray"
+      },
+      {
+        "title": "Anthropic, please ship an official Claude Desktop for Linux",
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "score": 496,
+        "comments": 283,
+        "author": "predkambrij"
+      },
+      {
+        "title": "How's Linear so fast? A technical breakdown",
+        "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+        "score": 413,
+        "comments": 190,
+        "author": "howToTestFE"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 22187,
+    "avg_stars": 221.9
+  }
+}
