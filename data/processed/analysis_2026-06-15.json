@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "analysis_date": "2026-06-15",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-06-15.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-06-15.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 5879
+    },
+    {
+      "language": "TypeScript",
+      "count": 21,
+      "percentage": 21.0,
+      "total_stars": 13339
+    },
+    {
+      "language": "JavaScript",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 13632
+    },
+    {
+      "language": "Unknown",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 7115
+    },
+    {
+      "language": "Shell",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3396
+    },
+    {
+      "language": "Swift",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1252
+    },
+    {
+      "language": "C#",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 587
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1735
+    },
+    {
+      "language": "HTML",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1532
+    },
+    {
+      "language": "C++",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1707
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 526
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 513
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 309
+    },
+    {
+      "language": "Verilog",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 273
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 121
+    },
+    {
+      "language": "Rust",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 115
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 11167,
+      "forks": 458,
+      "engagement_ratio": 0.041,
+      "category": "AI/ML",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 8803,
+      "forks": 761,
+      "engagement_ratio": 0.086,
+      "category": "Other",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code"
+    },
+    {
+      "name": "shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "Unknown",
+      "stars": 4643,
+      "forks": 159,
+      "engagement_ratio": 0.034,
+      "category": "Other",
+      "url": "https://github.com/shadcn/improve"
+    },
+    {
+      "name": "omnigent-ai/omnigent",
+      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you",
+      "language": "Python",
+      "stars": 1453,
+      "forks": 175,
+      "engagement_ratio": 0.12,
+      "category": "AI/ML",
+      "url": "https://github.com/omnigent-ai/omnigent"
+    },
+    {
+      "name": "MSNightmare/RoguePlanet",
+      "description": "RoguePlanet Windows Defender Vulnerability",
+      "language": "C++",
+      "stars": 1286,
+      "forks": 531,
+      "engagement_ratio": 0.413,
+      "category": "Security",
+      "url": "https://github.com/MSNightmare/RoguePlanet"
+    },
+    {
+      "name": "SkyBlue997/enableMacosAI",
+      "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "language": "Shell",
+      "stars": 1256,
+      "forks": 66,
+      "engagement_ratio": 0.053,
+      "category": "AI/ML",
+      "url": "https://github.com/SkyBlue997/enableMacosAI"
+    },
+    {
+      "name": "tamnd/kage",
+      "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+      "language": "Go",
+      "stars": 1171,
+      "forks": 24,
+      "engagement_ratio": 0.02,
+      "category": "Web Development",
+      "url": "https://github.com/tamnd/kage"
+    },
+    {
+      "name": "lenucksi/aur-malware-check",
+      "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "language": "Shell",
+      "stars": 1009,
+      "forks": 24,
+      "engagement_ratio": 0.024,
+      "category": "AI/ML",
+      "url": "https://github.com/lenucksi/aur-malware-check"
+    },
+    {
+      "name": "plannotator/effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "language": "HTML",
+      "stars": 868,
+      "forks": 61,
+      "engagement_ratio": 0.07,
+      "category": "AI/ML",
+      "url": "https://github.com/plannotator/effective-html"
+    },
+    {
+      "name": "levy-street/world-of-claudecraft",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 749,
+      "forks": 202,
+      "engagement_ratio": 0.27,
+      "category": "Other",
+      "url": "https://github.com/levy-street/world-of-claudecraft"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 53,
+      "percentage": 53.0
+    },
+    {
+      "category": "Other",
+      "count": 31,
+      "percentage": 31.0
+    },
+    {
+      "category": "Mobile",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 190.2,
+    "avg_comments": 120.6,
+    "max_score": 851,
+    "top_5_stories": [
+      {
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "score": 851,
+        "comments": 248,
+        "author": "memalign"
+      },
+      {
+        "title": "Your ePub Is fine",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+        "score": 664,
+        "comments": 220,
+        "author": "sohkamyung"
+      },
+      {
+        "title": "How to earn a billion dollars",
+        "url": "https://paulgraham.com/earn.html",
+        "score": 652,
+        "comments": 1673,
+        "author": "kingstoned"
+      },
+      {
+        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "url": "https://github.com/tamnd/kage",
+        "score": 582,
+        "comments": 116,
+        "author": "tamnd"
+      },
+      {
+        "title": "Curl will not accept vulnerability reports during July 2026",
+        "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+        "score": 477,
+        "comments": 194,
+        "author": "secret-noun"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 52031,
+    "avg_stars": 520.3
+  }
+}
