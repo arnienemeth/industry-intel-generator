@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "analysis_date": "2026-06-29",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-06-29.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-06-29.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 70,
+      "percentage": 70.0,
+      "total_stars": 17451
+    },
+    {
+      "language": "TypeScript",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 4115
+    },
+    {
+      "language": "JavaScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2743
+    },
+    {
+      "language": "Unknown",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1714
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 2519
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 356
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 316
+    },
+    {
+      "language": "Rust",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 248
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 240
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 234
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 231
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 195
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "language": "Python",
+      "stars": 2740,
+      "forks": 259,
+      "engagement_ratio": 0.095,
+      "category": "AI/ML",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "name": "bozhouDev/codex-orange-book",
+      "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "language": "HTML",
+      "stars": 2323,
+      "forks": 231,
+      "engagement_ratio": 0.099,
+      "category": "Other",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "name": "Yu9191/wloc",
+      "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+      "language": "JavaScript",
+      "stars": 1329,
+      "forks": 170,
+      "engagement_ratio": 0.128,
+      "category": "Other",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "name": "winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "language": "TypeScript",
+      "stars": 710,
+      "forks": 2,
+      "engagement_ratio": 0.003,
+      "category": "Web Development",
+      "url": "https://github.com/winsznx/theeleven"
+    },
+    {
+      "name": "Krishnagangwal/CS-Fundamentals",
+      "description": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & ",
+      "language": "Unknown",
+      "stars": 629,
+      "forks": 47,
+      "engagement_ratio": 0.075,
+      "category": "Data Engineering",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals"
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, ben",
+      "language": "Unknown",
+      "stars": 576,
+      "forks": 42,
+      "engagement_ratio": 0.073,
+      "category": "AI/ML",
+      "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "name": "AlexandrosGounis/pdfx",
+      "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+      "language": "TypeScript",
+      "stars": 511,
+      "forks": 58,
+      "engagement_ratio": 0.114,
+      "category": "Data Engineering",
+      "url": "https://github.com/AlexandrosGounis/pdfx"
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "language": "Python",
+      "stars": 394,
+      "forks": 43,
+      "engagement_ratio": 0.109,
+      "category": "AI/ML",
+      "url": "https://github.com/Pluviobyte/video-production-skills"
+    },
+    {
+      "name": "goehou/tabbit-toy",
+      "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "language": "JavaScript",
+      "stars": 387,
+      "forks": 762,
+      "engagement_ratio": 1.969,
+      "category": "AI/ML",
+      "url": "https://github.com/goehou/tabbit-toy"
+    },
+    {
+      "name": "downclash/clash",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 367,
+      "forks": 0,
+      "engagement_ratio": 0.0,
+      "category": "Other",
+      "url": "https://github.com/downclash/clash"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 75,
+      "percentage": 75.0
+    },
+    {
+      "category": "Other",
+      "count": 19,
+      "percentage": 19.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Web Development",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 164.5,
+    "avg_comments": 91.4,
+    "max_score": 861,
+    "top_5_stories": [
+      {
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "score": 861,
+        "comments": 399,
+        "author": "jms703"
+      },
+      {
+        "title": "EU to legislate about Chat Control behind closed doors",
+        "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+        "score": 668,
+        "comments": 380,
+        "author": "NeutralForest"
+      },
+      {
+        "title": "Age verification is just a precursor to automated attribution of speech",
+        "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+        "score": 497,
+        "comments": 279,
+        "author": "arkhiver"
+      },
+      {
+        "title": "The KIDS Act would require age checks to get online",
+        "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+        "score": 494,
+        "comments": 392,
+        "author": "bilsbie"
+      },
+      {
+        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+        "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "score": 459,
+        "comments": 169,
+        "author": "sambellll"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 30362,
+    "avg_stars": 303.6
+  }
+}
