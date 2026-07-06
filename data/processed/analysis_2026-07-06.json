@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "analysis_date": "2026-07-06",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-07-06.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-07-06.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 6399
+    },
+    {
+      "language": "Unknown",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 3660
+    },
+    {
+      "language": "TypeScript",
+      "count": 14,
+      "percentage": 14.0,
+      "total_stars": 4724
+    },
+    {
+      "language": "JavaScript",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 3121
+    },
+    {
+      "language": "Rust",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1475
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1476
+    },
+    {
+      "language": "Swift",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1091
+    },
+    {
+      "language": "Kotlin",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 484
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 427
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1654
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 429
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 164
+    },
+    {
+      "language": "HCL",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 114
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "language": "TypeScript",
+      "stars": 2080,
+      "forks": 503,
+      "engagement_ratio": 0.242,
+      "category": "AI/ML",
+      "url": "https://github.com/elder-plinius/T3MP3ST"
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
+      "stars": 1382,
+      "forks": 212,
+      "engagement_ratio": 0.153,
+      "category": "AI/ML",
+      "url": "https://github.com/mekos2772/ios-location-spoofer"
+    },
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file",
+      "language": "Python",
+      "stars": 1111,
+      "forks": 65,
+      "engagement_ratio": 0.059,
+      "category": "AI/ML",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+    },
+    {
+      "name": "jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 973,
+      "forks": 58,
+      "engagement_ratio": 0.06,
+      "category": "AI/ML",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via Gene",
+      "language": "C++",
+      "stars": 937,
+      "forks": 65,
+      "engagement_ratio": 0.069,
+      "category": "Mobile",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": "Unknown",
+      "stars": 730,
+      "forks": 39,
+      "engagement_ratio": 0.053,
+      "category": "Security",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocke",
+      "language": "Python",
+      "stars": 712,
+      "forks": 12,
+      "engagement_ratio": 0.017,
+      "category": "AI/ML",
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "language": "Swift",
+      "stars": 634,
+      "forks": 66,
+      "engagement_ratio": 0.104,
+      "category": "AI/ML",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "name": "Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on ave",
+      "language": "Shell",
+      "stars": 592,
+      "forks": 1,
+      "engagement_ratio": 0.002,
+      "category": "Other",
+      "url": "https://github.com/Kulaxyz/token-diet"
+    },
+    {
+      "name": "LinXiaoTao/FuckClaude",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 577,
+      "forks": 57,
+      "engagement_ratio": 0.099,
+      "category": "Other",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "Other",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 136.5,
+    "avg_comments": 70.1,
+    "max_score": 992,
+    "top_5_stories": [
+      {
+        "title": "Organic Maps",
+        "url": "https://organicmaps.app/",
+        "score": 992,
+        "comments": 301,
+        "author": "tosh"
+      },
+      {
+        "title": "OpenPrinter",
+        "url": "https://www.opentools.studio/",
+        "score": 859,
+        "comments": 214,
+        "author": "bouh"
+      },
+      {
+        "title": "It's not about physical vs. digital games, it's about ownership",
+        "url": "https://popcar.bearblog.dev/its-about-ownership/",
+        "score": 497,
+        "comments": 371,
+        "author": "popcar2"
+      },
+      {
+        "title": "The future of Flipper Zero development",
+        "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+        "score": 328,
+        "comments": 139,
+        "author": "croes"
+      },
+      {
+        "title": "Has_not_been_viewed_much",
+        "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "score": 306,
+        "comments": 80,
+        "author": "wxw"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 25218,
+    "avg_stars": 252.2
+  }
+}

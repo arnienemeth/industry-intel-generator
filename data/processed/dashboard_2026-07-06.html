@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry Intelligence Report - 2026-07-06</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 2rem; }
+        header h1 { font-size: 2rem; color: #e2e8f0; margin-bottom: 0.25rem; }
+        header p { color: #94a3b8; font-size: 1rem; }
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .kpi-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        .kpi-card .value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+        .kpi-card .label {
+            color: #94a3b8;
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+        }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .chart-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        .chart-card h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+        }
+        th, td {
+            text-align: left;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #334155;
+        }
+        th { color: #94a3b8; font-size: 0.8rem; text-transform: uppercase; }
+        td a { color: #3b82f6; text-decoration: none; }
+        td a:hover { text-decoration: underline; }
+        .badge {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            background: #3b82f6;
+            color: #e2e8f0;
+        }
+        .cat-badge { background: #6366f1; }
+        .section {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        footer {
+            text-align: center;
+            color: #94a3b8;
+            font-size: 0.8rem;
+            padding-top: 1rem;
+            border-top: 1px solid #334155;
+        }
+        </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Industry Intelligence Report</h1>
+            <p>2026-07-06 &mdash; 100 repos, 50 stories analyzed</p>
+        </header>
+
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="value">100</div>
+                <div class="label">Total Trending Repos</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">Python</div>
+                <div class="label">Top Language</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">AI/ML</div>
+                <div class="label">Hottest Category</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">136.5</div>
+                <div class="label">Avg HN Score</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-card">
+                <h2>Top 10 Languages by Count</h2>
+                <canvas id="langChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h2>Category Breakdown</h2>
+                <canvas id="catChart"></canvas>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Top 10 Repositories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Repository</th>
+                        <th>Language</th>
+                        <th>Stars</th>
+                        <th>Forks</th>
+                        <th>Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://github.com/elder-plinius/T3MP3ST" target="_blank">elder-plinius/T3MP3ST</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>2,080</td>
+            <td>503</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/mekos2772/ios-location-spoofer" target="_blank">mekos2772/ios-location-spoofer</a></td>
+            <td><span class="badge">JavaScript</span></td>
+            <td>1,382</td>
+            <td>212</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/HUANGCHIHHUNGLeo/claude-real-video" target="_blank">HUANGCHIHHUNGLeo/claude-real-video</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>1,111</td>
+            <td>65</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/jamesob/local-llm" target="_blank">jamesob/local-llm</a></td>
+            <td><span class="badge">Shell</span></td>
+            <td>973</td>
+            <td>58</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/ammaarreshi/Generals-Mac-iOS-iPad" target="_blank">ammaarreshi/Generals-Mac-iOS-iPad</a></td>
+            <td><span class="badge">C++</span></td>
+            <td>937</td>
+            <td>65</td>
+            <td><span class="badge cat-badge">Mobile</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/xuchonglang/investing-for-beginners" target="_blank">xuchonglang/investing-for-beginners</a></td>
+            <td><span class="badge">Unknown</span></td>
+            <td>730</td>
+            <td>39</td>
+            <td><span class="badge cat-badge">Security</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/jmerelnyc/Talos" target="_blank">jmerelnyc/Talos</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>712</td>
+            <td>12</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/uzairansaruzi/hermex" target="_blank">uzairansaruzi/hermex</a></td>
+            <td><span class="badge">Swift</span></td>
+            <td>634</td>
+            <td>66</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Kulaxyz/token-diet" target="_blank">Kulaxyz/token-diet</a></td>
+            <td><span class="badge">Shell</span></td>
+            <td>592</td>
+            <td>1</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/LinXiaoTao/FuckClaude" target="_blank">LinXiaoTao/FuckClaude</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>577</td>
+            <td>57</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Top 5 HackerNews Stories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Score</th>
+                        <th>Comments</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://organicmaps.app/" target="_blank">Organic Maps</a></td>
+            <td>992</td>
+            <td>301</td>
+        </tr>
+<tr>
+            <td><a href="https://www.opentools.studio/" target="_blank">OpenPrinter</a></td>
+            <td>859</td>
+            <td>214</td>
+        </tr>
+<tr>
+            <td><a href="https://popcar.bearblog.dev/its-about-ownership/" target="_blank">It's not about physical vs. digital games, it's about ownership</a></td>
+            <td>497</td>
+            <td>371</td>
+        </tr>
+<tr>
+            <td><a href="https://blog.flipper.net/future-of-flipper-zero-development/" target="_blank">The future of Flipper Zero development</a></td>
+            <td>328</td>
+            <td>139</td>
+        </tr>
+<tr>
+            <td><a href="https://iamwillwang.com/notes/has-not-been-viewed-much/" target="_blank">Has_not_been_viewed_much</a></td>
+            <td>306</td>
+            <td>80</td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            Generated by Industry Intelligence Pipeline &mdash;
+            Built with Claude Code + Claude Cowork
+        </footer>
+    </div>
+
+    <script>
+        const langLabels = ["Python", "Unknown", "TypeScript", "JavaScript", "Rust", "C++", "Swift", "Kotlin", "Go", "Shell"];
+        const langCounts = [24, 22, 14, 10, 6, 4, 4, 4, 4, 3];
+        const catLabels = ["AI/ML", "Other", "Mobile", "Security", "Web Development", "DevOps/Infra", "Data Engineering"];
+        const catCounts = [44, 41, 4, 4, 4, 2, 1];
+
+        const colors = [
+            '#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#d946ef',
+            '#ec4899', '#f43f5e', '#f97316', '#eab308', '#22c55e',
+            '#14b8a6', '#06b6d4'
+        ];
+
+        new Chart(document.getElementById('langChart'), {
+            type: 'bar',
+            data: {
+                labels: langLabels,
+                datasets: [{
+                    label: 'Repositories',
+                    data: langCounts,
+                    backgroundColor: colors.slice(0, langLabels.length),
+                    borderRadius: 6
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { color: '#334155' }
+                    },
+                    x: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { display: false }
+                    }
+                }
+            }
+        });
+
+        new Chart(document.getElementById('catChart'), {
+            type: 'doughnut',
+            data: {
+                labels: catLabels,
+                datasets: [{
+                    data: catCounts,
+                    backgroundColor: colors.slice(0, catLabels.length),
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { color: '#94a3b8', padding: 16 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
