@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "analysis_date": "2026-07-13",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-07-13.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-07-13.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 33,
+      "percentage": 33.0,
+      "total_stars": 8991
+    },
+    {
+      "language": "TypeScript",
+      "count": 25,
+      "percentage": 25.0,
+      "total_stars": 5076
+    },
+    {
+      "language": "Unknown",
+      "count": 14,
+      "percentage": 14.0,
+      "total_stars": 3197
+    },
+    {
+      "language": "JavaScript",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3781
+    },
+    {
+      "language": "C#",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 715
+    },
+    {
+      "language": "HTML",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1433
+    },
+    {
+      "language": "Rust",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 513
+    },
+    {
+      "language": "C++",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 397
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 508
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 436
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 235
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 155
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 2809,
+      "forks": 506,
+      "engagement_ratio": 0.18,
+      "category": "Other",
+      "url": "https://github.com/withmarbleapp/os-taxonomy"
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 971,
+      "forks": 50,
+      "engagement_ratio": 0.051,
+      "category": "Other",
+      "url": "https://github.com/Robbyant/lingbot-world-v2"
+    },
+    {
+      "name": "x4gKing/3x-ui-Upgrade",
+      "description": "",
+      "language": "HTML",
+      "stars": 899,
+      "forks": 1874,
+      "engagement_ratio": 2.085,
+      "category": "Other",
+      "url": "https://github.com/x4gKing/3x-ui-Upgrade"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 744,
+      "forks": 87,
+      "engagement_ratio": 0.117,
+      "category": "Other",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 730,
+      "forks": 27,
+      "engagement_ratio": 0.037,
+      "category": "AI/ML",
+      "url": "https://github.com/Robbyant/lingbot-video"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 691,
+      "forks": 148,
+      "engagement_ratio": 0.214,
+      "category": "AI/ML",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": "Unknown",
+      "stars": 614,
+      "forks": 63,
+      "engagement_ratio": 0.103,
+      "category": "AI/ML",
+      "url": "https://github.com/op7418/guizang-material-illustration"
+    },
+    {
+      "name": "Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 496,
+      "forks": 32,
+      "engagement_ratio": 0.065,
+      "category": "Other",
+      "url": "https://github.com/Robbyant/lingbot-vla-v2"
+    },
+    {
+      "name": "xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "language": "TypeScript",
+      "stars": 492,
+      "forks": 113,
+      "engagement_ratio": 0.23,
+      "category": "AI/ML",
+      "url": "https://github.com/xiaotianfotos/homerail"
+    },
+    {
+      "name": "gostonx/uninstally",
+      "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifie",
+      "language": "Swift",
+      "stars": 436,
+      "forks": 15,
+      "engagement_ratio": 0.034,
+      "category": "Mobile",
+      "url": "https://github.com/gostonx/uninstally"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "Other",
+      "count": 39,
+      "percentage": 39.0
+    },
+    {
+      "category": "Web Development",
+      "count": 5,
+      "percentage": 5.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 150.6,
+    "avg_comments": 79.9,
+    "max_score": 614,
+    "top_5_stories": [
+      {
+        "title": "Ask HN: Add flag for AI-generated articles",
+        "url": "",
+        "score": 614,
+        "comments": 287,
+        "author": "levkk"
+      },
+      {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "score": 575,
+        "comments": 319,
+        "author": "systima"
+      },
+      {
+        "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "score": 470,
+        "comments": 171,
+        "author": "jhoho"
+      },
+      {
+        "title": "Old and new apps, via modern coding agents",
+        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "score": 433,
+        "comments": 126,
+        "author": "subset"
+      },
+      {
+        "title": "I love LLMs, I hate hype",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "score": 416,
+        "comments": 264,
+        "author": "therepanic"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 25437,
+    "avg_stars": 254.4
+  }
+}
