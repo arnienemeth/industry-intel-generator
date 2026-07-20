@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "analysis_date": "2026-07-20",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-07-20.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-07-20.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 5885
+    },
+    {
+      "language": "TypeScript",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 4663
+    },
+    {
+      "language": "Unknown",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 2442
+    },
+    {
+      "language": "JavaScript",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 13799
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 22139
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1465
+    },
+    {
+      "language": "Swift",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1164
+    },
+    {
+      "language": "Shell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 602
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 359
+    },
+    {
+      "language": "Kotlin",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 335
+    },
+    {
+      "language": "Dart",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 625
+    },
+    {
+      "language": "Solidity",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 351
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 263
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 250
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 211
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 201
+    },
+    {
+      "language": "GDScript",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 197
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 141
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 124
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 20413,
+      "forks": 3721,
+      "engagement_ratio": 0.182,
+      "category": "AI/ML",
+      "url": "https://github.com/xai-org/grok-build"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 10787,
+      "forks": 1101,
+      "engagement_ratio": 0.102,
+      "category": "Other",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "description": "",
+      "language": "Rust",
+      "stars": 1335,
+      "forks": 79,
+      "engagement_ratio": 0.059,
+      "category": "Other",
+      "url": "https://github.com/CluvexStudio/Aether"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1173,
+      "forks": 169,
+      "engagement_ratio": 0.144,
+      "category": "AI/ML",
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 834,
+      "forks": 49,
+      "engagement_ratio": 0.059,
+      "category": "AI/ML",
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 806,
+      "forks": 87,
+      "engagement_ratio": 0.108,
+      "category": "Other",
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "name": "hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token",
+      "language": "Python",
+      "stars": 644,
+      "forks": 53,
+      "engagement_ratio": 0.082,
+      "category": "AI/ML",
+      "url": "https://github.com/hoainho/img2threejs"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 633,
+      "forks": 28,
+      "engagement_ratio": 0.044,
+      "category": "AI/ML",
+      "url": "https://github.com/MatinSenPai/Aether-GUI"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares",
+      "language": "JavaScript",
+      "stars": 631,
+      "forks": 138,
+      "engagement_ratio": 0.219,
+      "category": "AI/ML",
+      "url": "https://github.com/Blueturboguy07/cue"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 625,
+      "forks": 1,
+      "engagement_ratio": 0.002,
+      "category": "AI/ML",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Other",
+      "count": 39,
+      "percentage": 39.0
+    },
+    {
+      "category": "Web Development",
+      "count": 8,
+      "percentage": 8.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 201.7,
+    "avg_comments": 94.2,
+    "max_score": 2208,
+    "top_5_stories": [
+      {
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "",
+        "score": 2208,
+        "comments": 236,
+        "author": "section33"
+      },
+      {
+        "title": "Qwen 3.8",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "score": 873,
+        "comments": 594,
+        "author": "nh43215rgb"
+      },
+      {
+        "title": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "score": 741,
+        "comments": 156,
+        "author": "sebjones"
+      },
+      {
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "score": 504,
+        "comments": 669,
+        "author": "tosh"
+      },
+      {
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "score": 482,
+        "comments": 217,
+        "author": "chipweinberger"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 55216,
+    "avg_stars": 552.2
+  }
+}
