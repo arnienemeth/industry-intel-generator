@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "analysis_date": "2026-07-27",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-07-27.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-07-27.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 33,
+      "percentage": 33.0,
+      "total_stars": 8063
+    },
+    {
+      "language": "TypeScript",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 5585
+    },
+    {
+      "language": "Unknown",
+      "count": 14,
+      "percentage": 14.0,
+      "total_stars": 1826
+    },
+    {
+      "language": "JavaScript",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 2828
+    },
+    {
+      "language": "Rust",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 906
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 720
+    },
+    {
+      "language": "Shell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 303
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 385
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 250
+    },
+    {
+      "language": "C#",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 203
+    },
+    {
+      "language": "Solidity",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 357
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 199
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 156
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 103
+    },
+    {
+      "language": "Emacs Lisp",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 92
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 76
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 75
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "slvDev/esp32-ai",
+      "description": "",
+      "language": "Python",
+      "stars": 1552,
+      "forks": 159,
+      "engagement_ratio": 0.102,
+      "category": "AI/ML",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 1123,
+      "forks": 82,
+      "engagement_ratio": 0.073,
+      "category": "AI/ML",
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars": 989,
+      "forks": 12,
+      "engagement_ratio": 0.012,
+      "category": "Other",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 878,
+      "forks": 16,
+      "engagement_ratio": 0.018,
+      "category": "AI/ML",
+      "url": "https://github.com/mikiarlo3/ai-copywriter"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 813,
+      "forks": 165,
+      "engagement_ratio": 0.203,
+      "category": "Other",
+      "url": "https://github.com/mshumer/Claude-of-Duty"
+    },
+    {
+      "name": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": 741,
+      "forks": 90,
+      "engagement_ratio": 0.121,
+      "category": "Mobile",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture tr",
+      "language": "JavaScript",
+      "stars": 659,
+      "forks": 74,
+      "engagement_ratio": 0.112,
+      "category": "Other",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "name": "hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "language": "TypeScript",
+      "stars": 541,
+      "forks": 33,
+      "engagement_ratio": 0.061,
+      "category": "AI/ML",
+      "url": "https://github.com/hahhforest/pi-textbook"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 513,
+      "forks": 2,
+      "engagement_ratio": 0.004,
+      "category": "Other",
+      "url": "https://github.com/0xhype/hyperliquid-tracker"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 469,
+      "forks": 24,
+      "engagement_ratio": 0.051,
+      "category": "AI/ML",
+      "url": "https://github.com/VictorTaelin/OptMem"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "Other",
+      "count": 40,
+      "percentage": 40.0
+    },
+    {
+      "category": "Web Development",
+      "count": 8,
+      "percentage": 8.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 180.9,
+    "avg_comments": 87.4,
+    "max_score": 1007,
+    "top_5_stories": [
+      {
+        "title": "Kill The Cookie Banner",
+        "url": "https://killthecookiebanner.eu/",
+        "score": 1007,
+        "comments": 482,
+        "author": "rapnie"
+      },
+      {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+        "score": 736,
+        "comments": 538,
+        "author": "eecc"
+      },
+      {
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
+        "score": 572,
+        "comments": 57,
+        "author": "jonbaer"
+      },
+      {
+        "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+        "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+        "score": 445,
+        "comments": 146,
+        "author": "rcy"
+      },
+      {
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+        "score": 413,
+        "comments": 228,
+        "author": "Cider9986"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 22127,
+    "avg_stars": 221.3
+  }
+}

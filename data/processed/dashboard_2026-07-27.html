@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry Intelligence Report - 2026-07-27</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 2rem; }
+        header h1 { font-size: 2rem; color: #e2e8f0; margin-bottom: 0.25rem; }
+        header p { color: #94a3b8; font-size: 1rem; }
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .kpi-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        .kpi-card .value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+        .kpi-card .label {
+            color: #94a3b8;
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+        }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .chart-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        .chart-card h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+        }
+        th, td {
+            text-align: left;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #334155;
+        }
+        th { color: #94a3b8; font-size: 0.8rem; text-transform: uppercase; }
+        td a { color: #3b82f6; text-decoration: none; }
+        td a:hover { text-decoration: underline; }
+        .badge {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            background: #3b82f6;
+            color: #e2e8f0;
+        }
+        .cat-badge { background: #6366f1; }
+        .section {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        footer {
+            text-align: center;
+            color: #94a3b8;
+            font-size: 0.8rem;
+            padding-top: 1rem;
+            border-top: 1px solid #334155;
+        }
+        </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Industry Intelligence Report</h1>
+            <p>2026-07-27 &mdash; 100 repos, 50 stories analyzed</p>
+        </header>
+
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="value">100</div>
+                <div class="label">Total Trending Repos</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">Python</div>
+                <div class="label">Top Language</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">AI/ML</div>
+                <div class="label">Hottest Category</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">180.9</div>
+                <div class="label">Avg HN Score</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-card">
+                <h2>Top 10 Languages by Count</h2>
+                <canvas id="langChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h2>Category Breakdown</h2>
+                <canvas id="catChart"></canvas>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Top 10 Repositories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Repository</th>
+                        <th>Language</th>
+                        <th>Stars</th>
+                        <th>Forks</th>
+                        <th>Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://github.com/slvDev/esp32-ai" target="_blank">slvDev/esp32-ai</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>1,552</td>
+            <td>159</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Jakubantalik/thinking-orbs" target="_blank">Jakubantalik/thinking-orbs</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>1,123</td>
+            <td>82</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/vercel-labs/scriptc" target="_blank">vercel-labs/scriptc</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>989</td>
+            <td>12</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/mikiarlo3/ai-copywriter" target="_blank">mikiarlo3/ai-copywriter</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>878</td>
+            <td>16</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/mshumer/Claude-of-Duty" target="_blank">mshumer/Claude-of-Duty</a></td>
+            <td><span class="badge">JavaScript</span></td>
+            <td>813</td>
+            <td>165</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/makecindy/cindy" target="_blank">makecindy/cindy</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>741</td>
+            <td>90</td>
+            <td><span class="badge cat-badge">Mobile</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/gnipbao/story-to-handdrawn-video" target="_blank">gnipbao/story-to-handdrawn-video</a></td>
+            <td><span class="badge">JavaScript</span></td>
+            <td>659</td>
+            <td>74</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/hahhforest/pi-textbook" target="_blank">hahhforest/pi-textbook</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>541</td>
+            <td>33</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/0xhype/hyperliquid-tracker" target="_blank">0xhype/hyperliquid-tracker</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>513</td>
+            <td>2</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/VictorTaelin/OptMem" target="_blank">VictorTaelin/OptMem</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>469</td>
+            <td>24</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Top 5 HackerNews Stories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Score</th>
+                        <th>Comments</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://killthecookiebanner.eu/" target="_blank">Kill The Cookie Banner</a></td>
+            <td>1,007</td>
+            <td>482</td>
+        </tr>
+<tr>
+            <td><a href="https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html" target="_blank">US citizen charged after GrapheneOS phone wipes during airport search</a></td>
+            <td>736</td>
+            <td>538</td>
+        </tr>
+<tr>
+            <td><a href="https://nikolays.github.io/PGSimCity/" target="_blank">PGSimCity - How PostgreSQL Works</a></td>
+            <td>572</td>
+            <td>57</td>
+        </tr>
+<tr>
+            <td><a href="https://swag.htmx.org/en-cad/products/htmx-4-the-game" target="_blank">Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy</a></td>
+            <td>445</td>
+            <td>146</td>
+        </tr>
+<tr>
+            <td><a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices" target="_blank">GrapheneOS protections against data extraction from locked devices</a></td>
+            <td>413</td>
+            <td>228</td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            Generated by Industry Intelligence Pipeline &mdash;
+            Built with Claude Code + Claude Cowork
+        </footer>
+    </div>
+
+    <script>
+        const langLabels = ["Python", "TypeScript", "Unknown", "JavaScript", "Rust", "Swift", "Shell", "Go", "HTML", "C#"];
+        const langCounts = [33, 17, 14, 11, 7, 3, 2, 2, 2, 2];
+        const catLabels = ["AI/ML", "Other", "Web Development", "Mobile", "Security", "Data Engineering", "DevOps/Infra"];
+        const catCounts = [44, 40, 8, 3, 3, 1, 1];
+
+        const colors = [
+            '#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#d946ef',
+            '#ec4899', '#f43f5e', '#f97316', '#eab308', '#22c55e',
+            '#14b8a6', '#06b6d4'
+        ];
+
+        new Chart(document.getElementById('langChart'), {
+            type: 'bar',
+            data: {
+                labels: langLabels,
+                datasets: [{
+                    label: 'Repositories',
+                    data: langCounts,
+                    backgroundColor: colors.slice(0, langLabels.length),
+                    borderRadius: 6
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { color: '#334155' }
+                    },
+                    x: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { display: false }
+                    }
+                }
+            }
+        });
+
+        new Chart(document.getElementById('catChart'), {
+            type: 'doughnut',
+            data: {
+                labels: catLabels,
+                datasets: [{
+                    data: catCounts,
+                    backgroundColor: colors.slice(0, catLabels.length),
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { color: '#94a3b8', padding: 16 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
