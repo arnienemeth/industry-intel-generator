@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "analysis_date": "2026-08-03",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-08-03.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-08-03.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 19282
+    },
+    {
+      "language": "Python",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 3695
+    },
+    {
+      "language": "JavaScript",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 4739
+    },
+    {
+      "language": "Unknown",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 5213
+    },
+    {
+      "language": "Go",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 939
+    },
+    {
+      "language": "HTML",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 920
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1049
+    },
+    {
+      "language": "C",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 2183
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 488
+    },
+    {
+      "language": "Shell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 932
+    },
+    {
+      "language": "Kotlin",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 387
+    },
+    {
+      "language": "Astro",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 256
+    },
+    {
+      "language": "Lean",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 382
+    },
+    {
+      "language": "Cuda",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 193
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 112
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars": 8131,
+      "forks": 854,
+      "engagement_ratio": 0.105,
+      "category": "Other",
+      "url": "https://github.com/yc-software/qm"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 3978,
+      "forks": 460,
+      "engagement_ratio": 0.116,
+      "category": "Other",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stars": 2086,
+      "forks": 255,
+      "engagement_ratio": 0.122,
+      "category": "AI/ML",
+      "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "language": "Unknown",
+      "stars": 1867,
+      "forks": 235,
+      "engagement_ratio": 0.126,
+      "category": "Other",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVM",
+      "language": "C",
+      "stars": 1314,
+      "forks": 103,
+      "engagement_ratio": 0.078,
+      "category": "Data Engineering",
+      "url": "https://github.com/sqliteai/waste"
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, W",
+      "language": "Unknown",
+      "stars": 1219,
+      "forks": 0,
+      "engagement_ratio": 0.0,
+      "category": "AI/ML",
+      "url": "https://github.com/WilonityDev/WilonityLoader"
+    },
+    {
+      "name": "microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + or",
+      "language": "TypeScript",
+      "stars": 1123,
+      "forks": 115,
+      "engagement_ratio": 0.102,
+      "category": "AI/ML",
+      "url": "https://github.com/microsoft/skill-recorder"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 821,
+      "forks": 58,
+      "engagement_ratio": 0.071,
+      "category": "Other",
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    },
+    {
+      "name": "xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 800,
+      "forks": 74,
+      "engagement_ratio": 0.092,
+      "category": "Other",
+      "url": "https://github.com/xikhar/persona"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and c",
+      "language": "TypeScript",
+      "stars": 665,
+      "forks": 68,
+      "engagement_ratio": 0.102,
+      "category": "Data Engineering",
+      "url": "https://github.com/talivia-group/talivia"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Other",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 11,
+      "percentage": 11.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 123.5,
+    "avg_comments": 59.4,
+    "max_score": 565,
+    "top_5_stories": [
+      {
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
+        "score": 565,
+        "comments": 388,
+        "author": "delichon"
+      },
+      {
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "url": "https://qwen.ai/blog?id=qwen3.8",
+        "score": 539,
+        "comments": 261,
+        "author": "ai2027"
+      },
+      {
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "score": 459,
+        "comments": 198,
+        "author": "ngruhn"
+      },
+      {
+        "title": "More German than many Germans",
+        "url": "https://mertbulan.com/more-german-than-many-germans/",
+        "score": 242,
+        "comments": 155,
+        "author": "mertbio"
+      },
+      {
+        "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+        "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+        "score": 236,
+        "comments": 118,
+        "author": "JumpCrisscross"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 40770,
+    "avg_stars": 407.7
+  }
+}
