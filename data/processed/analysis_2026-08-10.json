@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "analysis_date": "2026-08-10",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-08-10.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-08-10.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 29,
+      "percentage": 29.0,
+      "total_stars": 10141
+    },
+    {
+      "language": "Unknown",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 6556
+    },
+    {
+      "language": "JavaScript",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 3328
+    },
+    {
+      "language": "TypeScript",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 2125
+    },
+    {
+      "language": "C++",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 898
+    },
+    {
+      "language": "C",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1233
+    },
+    {
+      "language": "Shell",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1516
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 605
+    },
+    {
+      "language": "C#",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 373
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 811
+    },
+    {
+      "language": "Vue",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 322
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 252
+    },
+    {
+      "language": "GDScript",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 305
+    },
+    {
+      "language": "Rust",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 236
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 126
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2157,
+      "forks": 190,
+      "engagement_ratio": 0.088,
+      "category": "AI/ML",
+      "url": "https://github.com/KKKKhazix/human-writing"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "description": "",
+      "language": "Unknown",
+      "stars": 2053,
+      "forks": 103,
+      "engagement_ratio": 0.05,
+      "category": "Other",
+      "url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate edi",
+      "language": "Unknown",
+      "stars": 1605,
+      "forks": 1165,
+      "engagement_ratio": 0.726,
+      "category": "AI/ML",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
+      "name": "ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1030,
+      "forks": 83,
+      "engagement_ratio": 0.081,
+      "category": "Other",
+      "url": "https://github.com/ShawnPana/phone-harness"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 802,
+      "forks": 14,
+      "engagement_ratio": 0.017,
+      "category": "AI/ML",
+      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a stru",
+      "language": "JavaScript",
+      "stars": 717,
+      "forks": 91,
+      "engagement_ratio": 0.127,
+      "category": "Security",
+      "url": "https://github.com/0xwilliamortiz/claude-red"
+    },
+    {
+      "name": "xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 679,
+      "forks": 8,
+      "engagement_ratio": 0.012,
+      "category": "Other",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
+    },
+    {
+      "name": "MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 675,
+      "forks": 116,
+      "engagement_ratio": 0.172,
+      "category": "AI/ML",
+      "url": "https://github.com/MengTo/kage"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "language": "Python",
+      "stars": 653,
+      "forks": 27,
+      "engagement_ratio": 0.041,
+      "category": "AI/ML",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 644,
+      "forks": 61,
+      "engagement_ratio": 0.095,
+      "category": "Web Development",
+      "url": "https://github.com/oil-oil/oil-motion"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 49,
+      "percentage": 49.0
+    },
+    {
+      "category": "Other",
+      "count": 36,
+      "percentage": 36.0
+    },
+    {
+      "category": "Mobile",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 125.8,
+    "avg_comments": 81.7,
+    "max_score": 588,
+    "top_5_stories": [
+      {
+        "title": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "score": 588,
+        "comments": 335,
+        "author": "laurentiurad"
+      },
+      {
+        "title": "Mea Culpa – Dark Hours",
+        "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "score": 579,
+        "comments": 267,
+        "author": "satvikpendem"
+      },
+      {
+        "title": "My server is a phone now",
+        "url": "https://seg6.space/posts/phone-server/",
+        "score": 503,
+        "comments": 238,
+        "author": "seg6"
+      },
+      {
+        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+        "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+        "score": 478,
+        "comments": 399,
+        "author": "akyuu"
+      },
+      {
+        "title": "Everything you do is being recorded",
+        "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+        "score": 274,
+        "comments": 218,
+        "author": "ike_usawa"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 28827,
+    "avg_stars": 288.3
+  }
+}
