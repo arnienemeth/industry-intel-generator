@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "analysis_date": "2026-08-17",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-08-17.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-08-17.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "TypeScript",
+      "count": 30,
+      "percentage": 30.0,
+      "total_stars": 168701
+    },
+    {
+      "language": "JavaScript",
+      "count": 18,
+      "percentage": 18.0,
+      "total_stars": 8614
+    },
+    {
+      "language": "Python",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 22923
+    },
+    {
+      "language": "Unknown",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 4587
+    },
+    {
+      "language": "HTML",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3195
+    },
+    {
+      "language": "C++",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1201
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 764
+    },
+    {
+      "language": "Rust",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 699
+    },
+    {
+      "language": "C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1917
+    },
+    {
+      "language": "Java",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 801
+    },
+    {
+      "language": "Vue",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 319
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 3091
+    },
+    {
+      "language": "Objective-C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 301
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 177
+    },
+    {
+      "language": "Markdown",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 173
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 139996,
+      "forks": 14184,
+      "engagement_ratio": 0.101,
+      "category": "AI/ML",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG",
+      "language": "Python",
+      "stars": 12201,
+      "forks": 1307,
+      "engagement_ratio": 0.107,
+      "category": "AI/ML",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 10241,
+      "forks": 445,
+      "engagement_ratio": 0.043,
+      "category": "Other",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 6340,
+      "forks": 942,
+      "engagement_ratio": 0.149,
+      "category": "Other",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI",
+      "language": "TypeScript",
+      "stars": 3729,
+      "forks": 223,
+      "engagement_ratio": 0.06,
+      "category": "Web Development",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3244,
+      "forks": 101,
+      "engagement_ratio": 0.031,
+      "category": "AI/ML",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mo",
+      "language": "PowerShell",
+      "stars": 3091,
+      "forks": 75,
+      "engagement_ratio": 0.024,
+      "category": "Other",
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": "Unknown",
+      "stars": 1981,
+      "forks": 77,
+      "engagement_ratio": 0.039,
+      "category": "Other",
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1737,
+      "forks": 138,
+      "engagement_ratio": 0.079,
+      "category": "Other",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 1736,
+      "forks": 28,
+      "engagement_ratio": 0.016,
+      "category": "Other",
+      "url": "https://github.com/dmmulroy/anti-slop"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 45,
+      "percentage": 45.0
+    },
+    {
+      "category": "Other",
+      "count": 37,
+      "percentage": 37.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 137.4,
+    "avg_comments": 57.5,
+    "max_score": 617,
+    "top_5_stories": [
+      {
+        "title": "Firefox for iOS now has a native adblocker",
+        "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+        "score": 617,
+        "comments": 251,
+        "author": "pentagrama"
+      },
+      {
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "score": 613,
+        "comments": 248,
+        "author": "tosh"
+      },
+      {
+        "title": "A third world engineer responds to “RISC-V: They should have known better”",
+        "url": "https://rvembedded.com/blog_post/12/",
+        "score": 447,
+        "comments": 233,
+        "author": "Narishma"
+      },
+      {
+        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+        "url": "",
+        "score": 402,
+        "comments": 106,
+        "author": "stagas"
+      },
+      {
+        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+        "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+        "score": 381,
+        "comments": 133,
+        "author": "Alifatisk"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "TypeScript",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 217463,
+    "avg_stars": 2174.6
+  }
+}
