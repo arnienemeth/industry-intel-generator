@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "analysis_date": "2026-08-24",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-08-24.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-08-24.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 28,
+      "percentage": 28.0,
+      "total_stars": 8101
+    },
+    {
+      "language": "JavaScript",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 4823
+    },
+    {
+      "language": "TypeScript",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 2899
+    },
+    {
+      "language": "Unknown",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 5840
+    },
+    {
+      "language": "HTML",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 3788
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1559
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1439
+    },
+    {
+      "language": "Kotlin",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 453
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 258
+    },
+    {
+      "language": "Shell",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 231
+    },
+    {
+      "language": "Java",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 207
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1008
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 334
+    },
+    {
+      "language": "Markdown",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 217
+    },
+    {
+      "language": "PHP",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 110
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 104
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": "Unknown",
+      "stars": 3977,
+      "forks": 191,
+      "engagement_ratio": 0.048,
+      "category": "Other",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "language": "HTML",
+      "stars": 3112,
+      "forks": 307,
+      "engagement_ratio": 0.099,
+      "category": "Web Development",
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 1607,
+      "forks": 23,
+      "engagement_ratio": 0.014,
+      "category": "AI/ML",
+      "url": "https://github.com/wang2122/sprix-sage-router"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "description": "Install Command：npm install",
+      "language": "JavaScript",
+      "stars": 1239,
+      "forks": 262,
+      "engagement_ratio": 0.211,
+      "category": "Other",
+      "url": "https://github.com/vvxw/deploy-vercel"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functional",
+      "language": "Zig",
+      "stars": 1008,
+      "forks": 99,
+      "engagement_ratio": 0.098,
+      "category": "AI/ML",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server"
+    },
+    {
+      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "language": "JavaScript",
+      "stars": 763,
+      "forks": 31,
+      "engagement_ratio": 0.041,
+      "category": "Other",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from",
+      "language": "Python",
+      "stars": 760,
+      "forks": 73,
+      "engagement_ratio": 0.096,
+      "category": "AI/ML",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "language": "Python",
+      "stars": 718,
+      "forks": 121,
+      "engagement_ratio": 0.169,
+      "category": "AI/ML",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "language": "Swift",
+      "stars": 707,
+      "forks": 43,
+      "engagement_ratio": 0.061,
+      "category": "Other",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly"
+    },
+    {
+      "name": "amirh00sain/SpiderPanel",
+      "description": "",
+      "language": "Python",
+      "stars": 620,
+      "forks": 2020,
+      "engagement_ratio": 3.258,
+      "category": "AI/ML",
+      "url": "https://github.com/amirh00sain/SpiderPanel"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 40,
+      "percentage": 40.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 12,
+      "percentage": 12.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 144.8,
+    "avg_comments": 74.4,
+    "max_score": 609,
+    "top_5_stories": [
+      {
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "score": 609,
+        "comments": 189,
+        "author": "schlarpc"
+      },
+      {
+        "title": "To become a better writer, read as much as you can",
+        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+        "score": 444,
+        "comments": 255,
+        "author": "andsoitis"
+      },
+      {
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "score": 417,
+        "comments": 363,
+        "author": "naves"
+      },
+      {
+        "title": "What Is a Harness?",
+        "url": "https://earendil.com/posts/what-is-a-harness/",
+        "score": 402,
+        "comments": 146,
+        "author": "tosh"
+      },
+      {
+        "title": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "score": 371,
+        "comments": 123,
+        "author": "vanpra"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 31371,
+    "avg_stars": 313.7
+  }
+}
