@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "analysis_date": "2026-08-31",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-08-31.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-08-31.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 34,
+      "percentage": 34.0,
+      "total_stars": 13999
+    },
+    {
+      "language": "TypeScript",
+      "count": 21,
+      "percentage": 21.0,
+      "total_stars": 6617
+    },
+    {
+      "language": "JavaScript",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 1917
+    },
+    {
+      "language": "Unknown",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 3571
+    },
+    {
+      "language": "Rust",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 1637
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 791
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 407
+    },
+    {
+      "language": "CSS",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1687
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 983
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 4179
+    },
+    {
+      "language": "Markdown",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 776
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 209
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 135
+    },
+    {
+      "language": "HTML",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 131
+    },
+    {
+      "language": "PHP",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 116
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "sapientinc/PRAXIST",
+      "description": "Autonomous research system for measurable, computer-executable research.",
+      "language": "Python",
+      "stars": 4818,
+      "forks": 473,
+      "engagement_ratio": 0.098,
+      "category": "Web Development",
+      "url": "https://github.com/sapientinc/PRAXIST"
+    },
+    {
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "description": "",
+      "language": "TeX",
+      "stars": 4179,
+      "forks": 657,
+      "engagement_ratio": 0.157,
+      "category": "Other",
+      "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "language": "TypeScript",
+      "stars": 1672,
+      "forks": 181,
+      "engagement_ratio": 0.108,
+      "category": "AI/ML",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "language": "CSS",
+      "stars": 1228,
+      "forks": 91,
+      "engagement_ratio": 0.074,
+      "category": "Web Development",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one galle",
+      "language": "TypeScript",
+      "stars": 1120,
+      "forks": 16,
+      "engagement_ratio": 0.014,
+      "category": "Other",
+      "url": "https://github.com/wide-trace/open-higgsfield"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code,",
+      "language": "Unknown",
+      "stars": 1118,
+      "forks": 63,
+      "engagement_ratio": 0.056,
+      "category": "AI/ML",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "Tencent/WeMM-Embedding",
+      "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting mul",
+      "language": "Python",
+      "stars": 977,
+      "forks": 72,
+      "engagement_ratio": 0.074,
+      "category": "AI/ML",
+      "url": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
+      "name": "tradecatlabs/shulihuazixuecongshu",
+      "description": "",
+      "language": "Python",
+      "stars": 819,
+      "forks": 159,
+      "engagement_ratio": 0.194,
+      "category": "Other",
+      "url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
+    },
+    {
+      "name": "jub0t/Concat",
+      "description": "Free & Open-Source CapCut replacement.",
+      "language": "TypeScript",
+      "stars": 815,
+      "forks": 66,
+      "engagement_ratio": 0.081,
+      "category": "Other",
+      "url": "https://github.com/jub0t/Concat"
+    },
+    {
+      "name": "cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently instal",
+      "language": "Markdown",
+      "stars": 776,
+      "forks": 114,
+      "engagement_ratio": 0.147,
+      "category": "Other",
+      "url": "https://github.com/cbrock84/headcount"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 46,
+      "percentage": 46.0
+    },
+    {
+      "category": "Other",
+      "count": 34,
+      "percentage": 34.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 8,
+      "percentage": 8.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 133.2,
+    "avg_comments": 52.3,
+    "max_score": 1232,
+    "top_5_stories": [
+      {
+        "title": "Creepy Crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "score": 1232,
+        "comments": 617,
+        "author": "zdw"
+      },
+      {
+        "title": "“I just chose words carefully”",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "score": 885,
+        "comments": 231,
+        "author": "zdw"
+      },
+      {
+        "title": "Haiku R1/beta6 has been released",
+        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "score": 338,
+        "comments": 95,
+        "author": "metrofun"
+      },
+      {
+        "title": "Hacking IKEA Furniture",
+        "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+        "score": 330,
+        "comments": 245,
+        "author": "greenlightning"
+      },
+      {
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "score": 240,
+        "comments": 95,
+        "author": "vntok"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 37155,
+    "avg_stars": 371.6
+  }
+}
