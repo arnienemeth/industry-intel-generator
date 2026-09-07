@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "analysis_date": "2026-09-07",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-09-07.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-09-07.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 33,
+      "percentage": 33.0,
+      "total_stars": 12018
+    },
+    {
+      "language": "JavaScript",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 4978
+    },
+    {
+      "language": "TypeScript",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 8990
+    },
+    {
+      "language": "Unknown",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 1931
+    },
+    {
+      "language": "Swift",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2063
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 683
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1138
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1066
+    },
+    {
+      "language": "Lean",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1035
+    },
+    {
+      "language": "Rust",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 586
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 533
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 417
+    },
+    {
+      "language": "Batchfile",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 247
+    },
+    {
+      "language": "Astro",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 242
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 240
+    },
+    {
+      "language": "Objective-C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 138
+    },
+    {
+      "language": "Markdown",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 137
+    },
+    {
+      "language": "Rich Text Format",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 100
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "language": "TypeScript",
+      "stars": 4494,
+      "forks": 387,
+      "engagement_ratio": 0.086,
+      "category": "Web Development",
+      "url": "https://github.com/lnkiai/m3e-canvas"
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and en",
+      "language": "Python",
+      "stars": 2325,
+      "forks": 398,
+      "engagement_ratio": 0.171,
+      "category": "AI/ML",
+      "url": "https://github.com/anthropics/commerce-agents"
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "language": "TypeScript",
+      "stars": 1705,
+      "forks": 447,
+      "engagement_ratio": 0.262,
+      "category": "Other",
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, fol",
+      "language": "Python",
+      "stars": 1567,
+      "forks": 1968,
+      "engagement_ratio": 1.256,
+      "category": "AI/ML",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+    },
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, tr",
+      "language": "Python",
+      "stars": 1139,
+      "forks": 156,
+      "engagement_ratio": 0.137,
+      "category": "AI/ML",
+      "url": "https://github.com/pierrenade/short-video-generator-AI"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "description": "",
+      "language": "Lean",
+      "stars": 890,
+      "forks": 73,
+      "engagement_ratio": 0.082,
+      "category": "Other",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "yczz/oc-english",
+      "description": "养成类游戏英语学习",
+      "language": "JavaScript",
+      "stars": 845,
+      "forks": 13,
+      "engagement_ratio": 0.015,
+      "category": "Other",
+      "url": "https://github.com/yczz/oc-english"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "language": "Unknown",
+      "stars": 812,
+      "forks": 34,
+      "engagement_ratio": 0.042,
+      "category": "AI/ML",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "language": "Swift",
+      "stars": 799,
+      "forks": 115,
+      "engagement_ratio": 0.144,
+      "category": "Other",
+      "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "description": "Open-source AI brand visibility and competitor reports",
+      "language": "TypeScript",
+      "stars": 639,
+      "forks": 51,
+      "engagement_ratio": 0.08,
+      "category": "AI/ML",
+      "url": "https://github.com/Albert-Weasker/niubigeo"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Other",
+      "count": 31,
+      "percentage": 31.0
+    },
+    {
+      "category": "Mobile",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Web Development",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 6,
+      "percentage": 6.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 164.0,
+    "avg_comments": 92.1,
+    "max_score": 760,
+    "top_5_stories": [
+      {
+        "title": "Nitter and XCancel resume service after legal advice",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "score": 760,
+        "comments": 334,
+        "author": "zImPatrick"
+      },
+      {
+        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "score": 656,
+        "comments": 408,
+        "author": "cyb0rg0"
+      },
+      {
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "score": 588,
+        "comments": 186,
+        "author": "mpweiher"
+      },
+      {
+        "title": "A/I shuts down",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "score": 586,
+        "comments": 484,
+        "author": "captainmuon"
+      },
+      {
+        "title": "Keep Our Servers Running",
+        "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "score": 523,
+        "comments": 109,
+        "author": "sonicrocketman"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 36542,
+    "avg_stars": 365.4
+  }
+}
