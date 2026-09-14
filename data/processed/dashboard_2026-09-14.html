@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Industry Intelligence Report - 2026-09-14</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 2rem; }
+        header h1 { font-size: 2rem; color: #e2e8f0; margin-bottom: 0.25rem; }
+        header p { color: #94a3b8; font-size: 1rem; }
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .kpi-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        .kpi-card .value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+        .kpi-card .label {
+            color: #94a3b8;
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+        }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .chart-card {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        .chart-card h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 2rem;
+        }
+        th, td {
+            text-align: left;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #334155;
+        }
+        th { color: #94a3b8; font-size: 0.8rem; text-transform: uppercase; }
+        td a { color: #3b82f6; text-decoration: none; }
+        td a:hover { text-decoration: underline; }
+        .badge {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            background: #3b82f6;
+            color: #e2e8f0;
+        }
+        .cat-badge { background: #6366f1; }
+        .section {
+            background: #1e293b;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #e2e8f0;
+        }
+        footer {
+            text-align: center;
+            color: #94a3b8;
+            font-size: 0.8rem;
+            padding-top: 1rem;
+            border-top: 1px solid #334155;
+        }
+        </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Industry Intelligence Report</h1>
+            <p>2026-09-14 &mdash; 100 repos, 50 stories analyzed</p>
+        </header>
+
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="value">100</div>
+                <div class="label">Total Trending Repos</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">Python</div>
+                <div class="label">Top Language</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">AI/ML</div>
+                <div class="label">Hottest Category</div>
+            </div>
+            <div class="kpi-card">
+                <div class="value">173.8</div>
+                <div class="label">Avg HN Score</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-card">
+                <h2>Top 10 Languages by Count</h2>
+                <canvas id="langChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h2>Category Breakdown</h2>
+                <canvas id="catChart"></canvas>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Top 10 Repositories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Repository</th>
+                        <th>Language</th>
+                        <th>Stars</th>
+                        <th>Forks</th>
+                        <th>Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://github.com/openai/NavierStokesAndEuler" target="_blank">openai/NavierStokesAndEuler</a></td>
+            <td><span class="badge">Lean</span></td>
+            <td>1,872</td>
+            <td>192</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Edge0-AI/Edge0" target="_blank">Edge0-AI/Edge0</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>1,652</td>
+            <td>132</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Vincentwei1021/anything2explainer" target="_blank">Vincentwei1021/anything2explainer</a></td>
+            <td><span class="badge">TypeScript</span></td>
+            <td>1,257</td>
+            <td>214</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/gazijarin/itsgiving" target="_blank">gazijarin/itsgiving</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>830</td>
+            <td>100</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/sumimakito/Mac-Duo" target="_blank">sumimakito/Mac-Duo</a></td>
+            <td><span class="badge">Swift</span></td>
+            <td>828</td>
+            <td>59</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/SpaceDudem/text-humanizer" target="_blank">SpaceDudem/text-humanizer</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>743</td>
+            <td>110</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Colafornia/short-video-generator-AI" target="_blank">Colafornia/short-video-generator-AI</a></td>
+            <td><span class="badge">Python</span></td>
+            <td>730</td>
+            <td>112</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/angusdevgo/IDM_Pro_Tool" target="_blank">angusdevgo/IDM_Pro_Tool</a></td>
+            <td><span class="badge">C#</span></td>
+            <td>693</td>
+            <td>176</td>
+            <td><span class="badge cat-badge">Other</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/yifanzhang-pro/recurrent-looped-tranformer" target="_blank">yifanzhang-pro/recurrent-looped-tranformer</a></td>
+            <td><span class="badge">HTML</span></td>
+            <td>669</td>
+            <td>70</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+<tr>
+            <td><a href="https://github.com/Faizpi/bank-sampah" target="_blank">Faizpi/bank-sampah</a></td>
+            <td><span class="badge">PHP</span></td>
+            <td>646</td>
+            <td>1</td>
+            <td><span class="badge cat-badge">AI/ML</span></td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>Top 5 HackerNews Stories</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Score</th>
+                        <th>Comments</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+            <td><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich" target="_blank">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td>
+            <td>985</td>
+            <td>430</td>
+        </tr>
+<tr>
+            <td><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads" target="_blank">Why is Google still serving dodgy ads?</a></td>
+            <td>839</td>
+            <td>374</td>
+        </tr>
+<tr>
+            <td><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating" target="_blank">Why are AI agents lying, cheating and coordinating?</a></td>
+            <td>621</td>
+            <td>676</td>
+        </tr>
+<tr>
+            <td><a href="https://jetkvm.com/blog/introducing-jetkvm-mini" target="_blank">JetKVM Mini</a></td>
+            <td>549</td>
+            <td>223</td>
+        </tr>
+<tr>
+            <td><a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment" target="_blank">Astra and Fable still hack on simple variants of alignment evals from 2025</a></td>
+            <td>442</td>
+            <td>206</td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            Generated by Industry Intelligence Pipeline &mdash;
+            Built with Claude Code + Claude Cowork
+        </footer>
+    </div>
+
+    <script>
+        const langLabels = ["Python", "Swift", "TypeScript", "JavaScript", "Unknown", "HTML", "Go", "C++", "Kotlin", "Lean"];
+        const langCounts = [33, 10, 9, 9, 9, 5, 4, 4, 3, 2];
+        const catLabels = ["AI/ML", "Other", "Web Development", "Mobile", "DevOps/Infra", "Security", "Data Engineering"];
+        const catCounts = [43, 39, 9, 6, 1, 1, 1];
+
+        const colors = [
+            '#3b82f6', '#6366f1', '#8b5cf6', '#a855f7', '#d946ef',
+            '#ec4899', '#f43f5e', '#f97316', '#eab308', '#22c55e',
+            '#14b8a6', '#06b6d4'
+        ];
+
+        new Chart(document.getElementById('langChart'), {
+            type: 'bar',
+            data: {
+                labels: langLabels,
+                datasets: [{
+                    label: 'Repositories',
+                    data: langCounts,
+                    backgroundColor: colors.slice(0, langLabels.length),
+                    borderRadius: 6
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: { legend: { display: false } },
+                scales: {
+                    y: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { color: '#334155' }
+                    },
+                    x: {
+                        ticks: { color: '#94a3b8' },
+                        grid: { display: false }
+                    }
+                }
+            }
+        });
+
+        new Chart(document.getElementById('catChart'), {
+            type: 'doughnut',
+            data: {
+                labels: catLabels,
+                datasets: [{
+                    data: catCounts,
+                    backgroundColor: colors.slice(0, catLabels.length),
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: { color: '#94a3b8', padding: 16 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
