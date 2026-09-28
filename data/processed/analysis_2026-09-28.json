@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "analysis_date": "2026-09-28",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-09-28.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-09-28.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 25,
+      "percentage": 25.0,
+      "total_stars": 9772
+    },
+    {
+      "language": "TypeScript",
+      "count": 21,
+      "percentage": 21.0,
+      "total_stars": 9299
+    },
+    {
+      "language": "JavaScript",
+      "count": 13,
+      "percentage": 13.0,
+      "total_stars": 6009
+    },
+    {
+      "language": "Unknown",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 3140
+    },
+    {
+      "language": "HTML",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 2573
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3146
+    },
+    {
+      "language": "C++",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1236
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 776
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 548
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 2521
+    },
+    {
+      "language": "Markdown",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 873
+    },
+    {
+      "language": "C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 421
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 235
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 221
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "Contrastive-LM/CLM",
+      "description": "",
+      "language": "Python",
+      "stars": 2118,
+      "forks": 188,
+      "engagement_ratio": 0.089,
+      "category": "Other",
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "tobi/disktree",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "language": "Rust",
+      "stars": 1753,
+      "forks": 112,
+      "engagement_ratio": 0.064,
+      "category": "Other",
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+      "language": "TypeScript",
+      "stars": 1569,
+      "forks": 157,
+      "engagement_ratio": 0.1,
+      "category": "Other",
+      "url": "https://github.com/mexicat/pdoom-video"
+    },
+    {
+      "name": "yetone/magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "language": "Go",
+      "stars": 1504,
+      "forks": 90,
+      "engagement_ratio": 0.06,
+      "category": "AI/ML",
+      "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+      "language": "JavaScript",
+      "stars": 1356,
+      "forks": 145,
+      "engagement_ratio": 0.107,
+      "category": "Other",
+      "url": "https://github.com/JohnHeibel/PDoomVideo"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stars": 1105,
+      "forks": 65,
+      "engagement_ratio": 0.059,
+      "category": "AI/ML",
+      "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent",
+      "language": "TypeScript",
+      "stars": 1030,
+      "forks": 75,
+      "engagement_ratio": 0.073,
+      "category": "DevOps/Infra",
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+      "language": "Go",
+      "stars": 1017,
+      "forks": 28,
+      "engagement_ratio": 0.028,
+      "category": "DevOps/Infra",
+      "url": "https://github.com/kryvora-network/kryvora-node"
+    },
+    {
+      "name": "852wa/JIZURA",
+      "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "language": "HTML",
+      "stars": 910,
+      "forks": 137,
+      "engagement_ratio": 0.151,
+      "category": "Other",
+      "url": "https://github.com/852wa/JIZURA"
+    },
+    {
+      "name": "dgreenheck/tidewater",
+      "description": "Coastal town built with Opus 5.5",
+      "language": "JavaScript",
+      "stars": 875,
+      "forks": 205,
+      "engagement_ratio": 0.234,
+      "category": "Other",
+      "url": "https://github.com/dgreenheck/tidewater"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 42,
+      "percentage": 42.0
+    },
+    {
+      "category": "Other",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 5,
+      "percentage": 5.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 152.2,
+    "avg_comments": 70.2,
+    "max_score": 1418,
+    "top_5_stories": [
+      {
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "score": 1418,
+        "comments": 764,
+        "author": "sancho-panza"
+      },
+      {
+        "title": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "score": 810,
+        "comments": 338,
+        "author": "Eric_Gullichsen"
+      },
+      {
+        "title": "Ember-1",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "score": 497,
+        "comments": 224,
+        "author": "gmays"
+      },
+      {
+        "title": "Don't couple your Go code to GitHub",
+        "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "score": 269,
+        "comments": 126,
+        "author": "birdculture"
+      },
+      {
+        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+        "url": "https://loficities.com/",
+        "score": 268,
+        "comments": 113,
+        "author": "safaelmali"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 40770,
+    "avg_stars": 407.7
+  }
+}
