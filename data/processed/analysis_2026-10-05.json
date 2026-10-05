@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "analysis_date": "2026-10-05",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-10-05.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-10-05.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 24,
+      "percentage": 24.0,
+      "total_stars": 15960
+    },
+    {
+      "language": "TypeScript",
+      "count": 16,
+      "percentage": 16.0,
+      "total_stars": 9321
+    },
+    {
+      "language": "Rust",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 4295
+    },
+    {
+      "language": "C++",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 3547
+    },
+    {
+      "language": "JavaScript",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3018
+    },
+    {
+      "language": "HTML",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2636
+    },
+    {
+      "language": "Unknown",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 946
+    },
+    {
+      "language": "Kotlin",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1100
+    },
+    {
+      "language": "C",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1646
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1654
+    },
+    {
+      "language": "C#",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1775
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 654
+    },
+    {
+      "language": "Java",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 607
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 241
+    },
+    {
+      "language": "Elixir",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 174
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 164
+    },
+    {
+      "language": "TeX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 156
+    },
+    {
+      "language": "MDX",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 136
+    },
+    {
+      "language": "Fortran",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 136
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "rehan-remade/universal-modder",
+      "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reve",
+      "language": "Python",
+      "stars": 3550,
+      "forks": 307,
+      "engagement_ratio": 0.086,
+      "category": "Other",
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stars": 3439,
+      "forks": 455,
+      "engagement_ratio": 0.132,
+      "category": "AI/ML",
+      "url": "https://github.com/CopilotKit/OpenDots"
+    },
+    {
+      "name": "feder-cr/dots",
+      "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "language": "Python",
+      "stars": 2611,
+      "forks": 437,
+      "engagement_ratio": 0.167,
+      "category": "AI/ML",
+      "url": "https://github.com/feder-cr/dots"
+    },
+    {
+      "name": "storytold/photocraft",
+      "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+      "language": "Rust",
+      "stars": 1479,
+      "forks": 145,
+      "engagement_ratio": 0.098,
+      "category": "AI/ML",
+      "url": "https://github.com/storytold/photocraft"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "language": "Python",
+      "stars": 1477,
+      "forks": 34,
+      "engagement_ratio": 0.023,
+      "category": "AI/ML",
+      "url": "https://github.com/nanaism/yomiyasu"
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "description": "",
+      "language": "HTML",
+      "stars": 1413,
+      "forks": 291,
+      "engagement_ratio": 0.206,
+      "category": "AI/ML",
+      "url": "https://github.com/wy51ai/floorplan-3d"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent ",
+      "language": "JavaScript",
+      "stars": 1337,
+      "forks": 89,
+      "engagement_ratio": 0.067,
+      "category": "AI/ML",
+      "url": "https://github.com/QingYunA/answer-me-with-html"
+    },
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "description": "Open source SDK to build Muse gadgets",
+      "language": "C",
+      "stars": 1332,
+      "forks": 247,
+      "engagement_ratio": 0.185,
+      "category": "Other",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "language": "Python",
+      "stars": 1294,
+      "forks": 65,
+      "engagement_ratio": 0.05,
+      "category": "AI/ML",
+      "url": "https://github.com/nykooi1/vibe-wise"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 1244,
+      "forks": 246,
+      "engagement_ratio": 0.198,
+      "category": "Other",
+      "url": "https://github.com/kargulstudio/sales-crm"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 47,
+      "percentage": 47.0
+    },
+    {
+      "category": "Other",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 7,
+      "percentage": 7.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 2,
+      "percentage": 2.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 164.0,
+    "avg_comments": 89.7,
+    "max_score": 895,
+    "top_5_stories": [
+      {
+        "title": "Tell HN: Bob Cringely has died",
+        "url": "",
+        "score": 895,
+        "comments": 195,
+        "author": "paveworld"
+      },
+      {
+        "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "url": "https://github.com/Niko1221/Strata",
+        "score": 842,
+        "comments": 371,
+        "author": "snehesht"
+      },
+      {
+        "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+        "url": "https://github.com/omlahore/RemoveMacAI",
+        "score": 643,
+        "comments": 436,
+        "author": "privacyisntdead"
+      },
+      {
+        "title": "Improper redaction reveals Google Data Center water and electricity usage",
+        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+        "score": 436,
+        "comments": 570,
+        "author": "sensanaty"
+      },
+      {
+        "title": "What is going on with ceiling fans",
+        "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+        "score": 342,
+        "comments": 298,
+        "author": "colinprince"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 48166,
+    "avg_stars": 481.7
+  }
+}
