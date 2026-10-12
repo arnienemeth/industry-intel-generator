@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "analysis_date": "2026-10-12",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-10-12.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-10-12.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 20,
+      "percentage": 20.0,
+      "total_stars": 12204
+    },
+    {
+      "language": "Rust",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 29606
+    },
+    {
+      "language": "TypeScript",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 7146
+    },
+    {
+      "language": "JavaScript",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 14731
+    },
+    {
+      "language": "Swift",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 6029
+    },
+    {
+      "language": "Unknown",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3341
+    },
+    {
+      "language": "C++",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 3003
+    },
+    {
+      "language": "HTML",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 1315
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 4707
+    },
+    {
+      "language": "C",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 633
+    },
+    {
+      "language": "Lean",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 14303
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 2345
+    },
+    {
+      "language": "Dockerfile",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 854
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 238
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 214
+    },
+    {
+      "language": "Vue",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 194
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 14303,
+      "forks": 1611,
+      "engagement_ratio": 0.113,
+      "category": "AI/ML",
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "language": "Rust",
+      "stars": 7876,
+      "forks": 2148,
+      "engagement_ratio": 0.273,
+      "category": "Other",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Ge",
+      "language": "JavaScript",
+      "stars": 4957,
+      "forks": 371,
+      "engagement_ratio": 0.075,
+      "category": "AI/ML",
+      "url": "https://github.com/wheresryan22/anatomy"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "language": "JavaScript",
+      "stars": 3549,
+      "forks": 394,
+      "engagement_ratio": 0.111,
+      "category": "AI/ML",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "language": "Go",
+      "stars": 3502,
+      "forks": 5910,
+      "engagement_ratio": 1.688,
+      "category": "AI/ML",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "language": "Rust",
+      "stars": 3411,
+      "forks": 1467,
+      "engagement_ratio": 0.43,
+      "category": "Other",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "name": "zhongerxin/iPhone-use",
+      "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "language": "Python",
+      "stars": 3314,
+      "forks": 330,
+      "engagement_ratio": 0.1,
+      "category": "Other",
+      "url": "https://github.com/zhongerxin/iPhone-use"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "language": "Rust",
+      "stars": 3108,
+      "forks": 1446,
+      "engagement_ratio": 0.465,
+      "category": "AI/ML",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts o",
+      "language": "Python",
+      "stars": 2697,
+      "forks": 338,
+      "engagement_ratio": 0.125,
+      "category": "AI/ML",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "language": "Rust",
+      "stars": 2680,
+      "forks": 246,
+      "engagement_ratio": 0.092,
+      "category": "AI/ML",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 41,
+      "percentage": 41.0
+    },
+    {
+      "category": "Other",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Mobile",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Web Development",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 180.6,
+    "avg_comments": 116.0,
+    "max_score": 783,
+    "top_5_stories": [
+      {
+        "title": "Passkeys are a trap",
+        "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+        "score": 783,
+        "comments": 428,
+        "author": "laurex"
+      },
+      {
+        "title": "3rd Yandex Cloud Data Center Was Hit",
+        "url": "https://status.yandex.cloud/en/incidents/2136",
+        "score": 600,
+        "comments": 737,
+        "author": "defly"
+      },
+      {
+        "title": "Total Annihilation, rebuilt for modern computers",
+        "url": "https://nanolathe.gg",
+        "score": 579,
+        "comments": 221,
+        "author": "jttnr"
+      },
+      {
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "score": 538,
+        "comments": 784,
+        "author": "albertzeyer"
+      },
+      {
+        "title": "NYC's \"Click to Cancel\" rule is now in effect",
+        "url": "https://www.nyc.gov/main/click-to-cancel",
+        "score": 527,
+        "comments": 261,
+        "author": "gregsadetsky"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 100863,
+    "avg_stars": 1008.6
+  }
+}
