@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "analysis_date": "2026-10-19",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-10-19.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-10-19.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Unknown",
+      "count": 25,
+      "percentage": 25.0,
+      "total_stars": 7298
+    },
+    {
+      "language": "Python",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 14586
+    },
+    {
+      "language": "C++",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 4567
+    },
+    {
+      "language": "Rust",
+      "count": 9,
+      "percentage": 9.0,
+      "total_stars": 2875
+    },
+    {
+      "language": "TypeScript",
+      "count": 8,
+      "percentage": 8.0,
+      "total_stars": 6430
+    },
+    {
+      "language": "C",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 3269
+    },
+    {
+      "language": "JavaScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 3993
+    },
+    {
+      "language": "Shell",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 745
+    },
+    {
+      "language": "HTML",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1102
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 3340
+    },
+    {
+      "language": "Go",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 2371
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1944
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 645
+    },
+    {
+      "language": "Dart",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 432
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 385
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 328
+    },
+    {
+      "language": "PHP",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 286
+    },
+    {
+      "language": "Ruby",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 239
+    },
+    {
+      "language": "Zig",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 230
+    },
+    {
+      "language": "CSS",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 216
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "Gathin23/cleanyourtv",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "language": "Java",
+      "stars": 3340,
+      "forks": 392,
+      "engagement_ratio": 0.117,
+      "category": "Mobile",
+      "url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stars": 3270,
+      "forks": 595,
+      "engagement_ratio": 0.182,
+      "category": "Other",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "language": "Go",
+      "stars": 2371,
+      "forks": 264,
+      "engagement_ratio": 0.111,
+      "category": "AI/ML",
+      "url": "https://github.com/feder-cr/git-ai"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "language": "JavaScript",
+      "stars": 2272,
+      "forks": 323,
+      "engagement_ratio": 0.142,
+      "category": "Other",
+      "url": "https://github.com/HeyPuter/everything"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, wit",
+      "language": "C#",
+      "stars": 1944,
+      "forks": 104,
+      "engagement_ratio": 0.053,
+      "category": "Web Development",
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "name": "chenglou/handwired",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "language": "TypeScript",
+      "stars": 1770,
+      "forks": 146,
+      "engagement_ratio": 0.082,
+      "category": "AI/ML",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "language": "C++",
+      "stars": 1501,
+      "forks": 76,
+      "engagement_ratio": 0.051,
+      "category": "Other",
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "description": "",
+      "language": "C",
+      "stars": 1307,
+      "forks": 217,
+      "engagement_ratio": 0.166,
+      "category": "Other",
+      "url": "https://github.com/ly05010419/MacNativeGames"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "language": "TypeScript",
+      "stars": 1231,
+      "forks": 263,
+      "engagement_ratio": 0.214,
+      "category": "AI/ML",
+      "url": "https://github.com/Caho1/open-claude-ui"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "language": "Python",
+      "stars": 1140,
+      "forks": 61,
+      "engagement_ratio": 0.054,
+      "category": "AI/ML",
+      "url": "https://github.com/Leonxlnx/earshot"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 44,
+      "percentage": 44.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 39,
+      "percentage": 39.0
+    },
+    {
+      "category": "Mobile",
+      "count": 10,
+      "percentage": 10.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Web Development",
+      "count": 3,
+      "percentage": 3.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 167.3,
+    "avg_comments": 86.8,
+    "max_score": 638,
+    "top_5_stories": [
+      {
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "score": 638,
+        "comments": 142,
+        "author": "speckx"
+      },
+      {
+        "title": "Namecheap just seized and disabled all my domains",
+        "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+        "score": 587,
+        "comments": 303,
+        "author": "sashk"
+      },
+      {
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "score": 576,
+        "comments": 270,
+        "author": "fagnerbrack"
+      },
+      {
+        "title": "Someone behind the software",
+        "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "score": 464,
+        "comments": 169,
+        "author": "tosh"
+      },
+      {
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "score": 424,
+        "comments": 206,
+        "author": "allinonai"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Unknown",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 55281,
+    "avg_stars": 552.8
+  }
+}
