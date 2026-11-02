@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "analysis_date": "2026-11-02",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-11-02.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-11-02.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Python",
+      "count": 27,
+      "percentage": 27.0,
+      "total_stars": 11267
+    },
+    {
+      "language": "JavaScript",
+      "count": 22,
+      "percentage": 22.0,
+      "total_stars": 20591
+    },
+    {
+      "language": "TypeScript",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 21681
+    },
+    {
+      "language": "C++",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 4647
+    },
+    {
+      "language": "Unknown",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 4562
+    },
+    {
+      "language": "HTML",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 4748
+    },
+    {
+      "language": "Kotlin",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 7777
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3758
+    },
+    {
+      "language": "Go",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 2565
+    },
+    {
+      "language": "Swift",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 928
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 3680
+    },
+    {
+      "language": "Lua",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1339
+    },
+    {
+      "language": "PowerShell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1337
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 447
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 390
+    },
+    {
+      "language": "Objective-C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 306
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "language": "TypeScript",
+      "stars": 11729,
+      "forks": 1212,
+      "engagement_ratio": 0.103,
+      "category": "AI/ML",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "heydamir/unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "language": "JavaScript",
+      "stars": 5620,
+      "forks": 287,
+      "engagement_ratio": 0.051,
+      "category": "AI/ML",
+      "url": "https://github.com/heydamir/unslop"
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "language": "TypeScript",
+      "stars": 5431,
+      "forks": 1388,
+      "engagement_ratio": 0.256,
+      "category": "AI/ML",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "language": "Kotlin",
+      "stars": 4976,
+      "forks": 956,
+      "engagement_ratio": 0.192,
+      "category": "Mobile",
+      "url": "https://github.com/wangzan101/Mika"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+      "language": "C",
+      "stars": 3680,
+      "forks": 296,
+      "engagement_ratio": 0.08,
+      "category": "Other",
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "language": "JavaScript",
+      "stars": 3253,
+      "forks": 435,
+      "engagement_ratio": 0.134,
+      "category": "Other",
+      "url": "https://github.com/patch-gg/pixelfx"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "language": "Rust",
+      "stars": 2647,
+      "forks": 427,
+      "engagement_ratio": 0.161,
+      "category": "Other",
+      "url": "https://github.com/storytold/craft-anything"
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stars": 2260,
+      "forks": 267,
+      "engagement_ratio": 0.118,
+      "category": "Other",
+      "url": "https://github.com/Djihads80/Eglantine"
+    },
+    {
+      "name": "haydenschmitty/floorplan",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "language": "JavaScript",
+      "stars": 2079,
+      "forks": 148,
+      "engagement_ratio": 0.071,
+      "category": "AI/ML",
+      "url": "https://github.com/haydenschmitty/floorplan"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "language": "Go",
+      "stars": 2030,
+      "forks": 520,
+      "engagement_ratio": 0.256,
+      "category": "AI/ML",
+      "url": "https://github.com/paipiange/nvzhuang"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 45,
+      "percentage": 45.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 38,
+      "percentage": 38.0
+    },
+    {
+      "category": "Web Development",
+      "count": 8,
+      "percentage": 8.0
+    },
+    {
+      "category": "Mobile",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 277.7,
+    "avg_comments": 111.8,
+    "max_score": 2701,
+    "top_5_stories": [
+      {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "score": 2701,
+        "comments": 599,
+        "author": "karpathy"
+      },
+      {
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "score": 1633,
+        "comments": 269,
+        "author": "roansh"
+      },
+      {
+        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+        "score": 840,
+        "comments": 215,
+        "author": "ecares"
+      },
+      {
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "score": 724,
+        "comments": 329,
+        "author": "oger"
+      },
+      {
+        "title": "Postgres 19 is late because so many more bugs are being found now",
+        "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+        "score": 635,
+        "comments": 378,
+        "author": "soheilpro"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Python",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 90023,
+    "avg_stars": 900.2
+  }
+}
