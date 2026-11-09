@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "analysis_date": "2026-11-09",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-11-09.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-11-09.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Unknown",
+      "count": 61,
+      "percentage": 61.0,
+      "total_stars": 25576
+    },
+    {
+      "language": "Python",
+      "count": 10,
+      "percentage": 10.0,
+      "total_stars": 9165
+    },
+    {
+      "language": "TypeScript",
+      "count": 6,
+      "percentage": 6.0,
+      "total_stars": 12340
+    },
+    {
+      "language": "Go",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3271
+    },
+    {
+      "language": "Rust",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 3205
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3945
+    },
+    {
+      "language": "C",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3507
+    },
+    {
+      "language": "HTML",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3391
+    },
+    {
+      "language": "JavaScript",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 2409
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 4060
+    },
+    {
+      "language": "C#",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1483
+    },
+    {
+      "language": "Shell",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1170
+    },
+    {
+      "language": "Kotlin",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 520
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "Minireel/HGhub",
+      "description": "YellowFruit third-party client",
+      "language": "TypeScript",
+      "stars": 5168,
+      "forks": 1968,
+      "engagement_ratio": 0.381,
+      "category": "Web Development",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "language": "TypeScript",
+      "stars": 4252,
+      "forks": 775,
+      "engagement_ratio": 0.182,
+      "category": "AI/ML",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "NotRexed/Hookshot",
+      "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "language": "C++",
+      "stars": 4060,
+      "forks": 371,
+      "engagement_ratio": 0.091,
+      "category": "Other",
+      "url": "https://github.com/NotRexed/Hookshot"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "description": "Entire MacOS running in your terminal.",
+      "language": "Swift",
+      "stars": 2476,
+      "forks": 172,
+      "engagement_ratio": 0.069,
+      "category": "Mobile",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "description": "",
+      "language": "C",
+      "stars": 1971,
+      "forks": 108,
+      "engagement_ratio": 0.055,
+      "category": "Other",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 1906,
+      "forks": 1022,
+      "engagement_ratio": 0.536,
+      "category": "Other",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the ",
+      "language": "Python",
+      "stars": 1826,
+      "forks": 325,
+      "engagement_ratio": 0.178,
+      "category": "AI/ML",
+      "url": "https://github.com/sarpstar/cinecode"
+    },
+    {
+      "name": "Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "language": "HTML",
+      "stars": 1574,
+      "forks": 175,
+      "engagement_ratio": 0.111,
+      "category": "AI/ML",
+      "url": "https://github.com/Sandflow-ai/sand3d"
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+      "language": "C#",
+      "stars": 1483,
+      "forks": 309,
+      "engagement_ratio": 0.208,
+      "category": "AI/ML",
+      "url": "https://github.com/jhaizhou-ops/S2Arm"
+    },
+    {
+      "name": "CzJam/gjgjxweb",
+      "description": "《搞机工具箱》Web移植版",
+      "language": "HTML",
+      "stars": 1417,
+      "forks": 123,
+      "engagement_ratio": 0.087,
+      "category": "Web Development",
+      "url": "https://github.com/CzJam/gjgjxweb"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 62,
+      "percentage": 62.0
+    },
+    {
+      "category": "Other",
+      "count": 20,
+      "percentage": 20.0
+    },
+    {
+      "category": "Web Development",
+      "count": 9,
+      "percentage": 9.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 5,
+      "percentage": 5.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 217.9,
+    "avg_comments": 131.6,
+    "max_score": 828,
+    "top_5_stories": [
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "score": 828,
+        "comments": 446,
+        "author": "TheWiggles"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+        "score": 814,
+        "comments": 956,
+        "author": "karimf"
+      },
+      {
+        "title": "Goodbye Claude, hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "score": 785,
+        "comments": 479,
+        "author": "karagenit"
+      },
+      {
+        "title": "Declarative Dragging",
+        "url": "https://declarative-dragging.github.io/",
+        "score": 639,
+        "comments": 80,
+        "author": "smusamashah"
+      },
+      {
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "url": "https://ketchup3d.github.io/app/",
+        "score": 616,
+        "comments": 186,
+        "author": "dcoulmbe"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Unknown",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 74042,
+    "avg_stars": 740.4
+  }
+}
