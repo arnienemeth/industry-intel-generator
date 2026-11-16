@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "analysis_date": "2026-11-16",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-11-16.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-11-16.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 50
+  },
+  "languages": [
+    {
+      "language": "Unknown",
+      "count": 31,
+      "percentage": 31.0,
+      "total_stars": 14808
+    },
+    {
+      "language": "Makefile",
+      "count": 15,
+      "percentage": 15.0,
+      "total_stars": 7096
+    },
+    {
+      "language": "C++",
+      "count": 12,
+      "percentage": 12.0,
+      "total_stars": 6350
+    },
+    {
+      "language": "TypeScript",
+      "count": 11,
+      "percentage": 11.0,
+      "total_stars": 11438
+    },
+    {
+      "language": "Python",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 5403
+    },
+    {
+      "language": "Go",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 3595
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2219
+    },
+    {
+      "language": "JavaScript",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 2608
+    },
+    {
+      "language": "Swift",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 3095
+    },
+    {
+      "language": "Kotlin",
+      "count": 2,
+      "percentage": 2.0,
+      "total_stars": 1797
+    },
+    {
+      "language": "C",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 438
+    },
+    {
+      "language": "Java",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 372
+    },
+    {
+      "language": "HTML",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 360
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "deepseek-ai/chat-demo",
+      "description": "Chat Demo",
+      "language": "TypeScript",
+      "stars": 3886,
+      "forks": 812,
+      "engagement_ratio": 0.209,
+      "category": "AI/ML",
+      "url": "https://github.com/deepseek-ai/chat-demo"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "description": "Apex Neural Rendering (ANR) by Apex Compute",
+      "language": "C++",
+      "stars": 2386,
+      "forks": 53,
+      "engagement_ratio": 0.022,
+      "category": "AI/ML",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGesta",
+      "language": "Swift",
+      "stars": 2179,
+      "forks": 435,
+      "engagement_ratio": 0.2,
+      "category": "Mobile",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+      "language": "Unknown",
+      "stars": 1941,
+      "forks": 52,
+      "engagement_ratio": 0.027,
+      "category": "AI/ML",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Lin",
+      "language": "TypeScript",
+      "stars": 1783,
+      "forks": 106,
+      "engagement_ratio": 0.059,
+      "category": "AI/ML",
+      "url": "https://github.com/FrigadeHQ/yogurt"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "language": "Python",
+      "stars": 1644,
+      "forks": 116,
+      "engagement_ratio": 0.071,
+      "category": "Other",
+      "url": "https://github.com/HybridRobotics/supermimic"
+    },
+    {
+      "name": "Noniv/abyssal-garden",
+      "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+      "language": "JavaScript",
+      "stars": 1432,
+      "forks": 218,
+      "engagement_ratio": 0.152,
+      "category": "AI/ML",
+      "url": "https://github.com/Noniv/abyssal-garden"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "language": "Python",
+      "stars": 1357,
+      "forks": 541,
+      "engagement_ratio": 0.399,
+      "category": "AI/ML",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "Eynnzerr/TelemetryCleaner",
+      "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "language": "Kotlin",
+      "stars": 1257,
+      "forks": 105,
+      "engagement_ratio": 0.084,
+      "category": "Other",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner"
+    },
+    {
+      "name": "ZiChuanLan/freebie-radar",
+      "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+      "language": "TypeScript",
+      "stars": 1036,
+      "forks": 179,
+      "engagement_ratio": 0.173,
+      "category": "AI/ML",
+      "url": "https://github.com/ZiChuanLan/freebie-radar"
+    }
+  ],
+  "categories": [
+    {
+      "category": "AI/ML",
+      "count": 77,
+      "percentage": 77.0
+    },
+    {
+      "category": "Other",
+      "count": 14,
+      "percentage": 14.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Mobile",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 1,
+      "percentage": 1.0
+    },
+    {
+      "category": "Security",
+      "count": 1,
+      "percentage": 1.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 50,
+    "avg_score": 239.0,
+    "avg_comments": 116.4,
+    "max_score": 1717,
+    "top_5_stories": [
+      {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "score": 1717,
+        "comments": 1296,
+        "author": "ls612"
+      },
+      {
+        "title": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "score": 1195,
+        "comments": 637,
+        "author": "jcubic"
+      },
+      {
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "score": 993,
+        "comments": 372,
+        "author": "armcat"
+      },
+      {
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "score": 678,
+        "comments": 318,
+        "author": "ilreb"
+      },
+      {
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+        "score": 587,
+        "comments": 257,
+        "author": "DeepLogin"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "Unknown",
+    "dominant_category": "AI/ML",
+    "total_repos": 100,
+    "total_stars": 59579,
+    "avg_stars": 595.8
+  }
+}
