@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "analysis_date": "2026-11-23",
+    "github_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/github_2026-11-23.json",
+    "hackernews_source": "/home/runner/work/industry-intel-generator/industry-intel-generator/data/raw/hackernews_2026-11-23.json",
+    "total_repos_analyzed": 100,
+    "total_stories_analyzed": 49
+  },
+  "languages": [
+    {
+      "language": "HTML",
+      "count": 70,
+      "percentage": 70.0,
+      "total_stars": 24196
+    },
+    {
+      "language": "Python",
+      "count": 7,
+      "percentage": 7.0,
+      "total_stars": 29832
+    },
+    {
+      "language": "Rust",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 6702
+    },
+    {
+      "language": "TypeScript",
+      "count": 5,
+      "percentage": 5.0,
+      "total_stars": 2680
+    },
+    {
+      "language": "JavaScript",
+      "count": 4,
+      "percentage": 4.0,
+      "total_stars": 1701
+    },
+    {
+      "language": "Unknown",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 4037
+    },
+    {
+      "language": "Lean",
+      "count": 3,
+      "percentage": 3.0,
+      "total_stars": 1690
+    },
+    {
+      "language": "Objective-C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1414
+    },
+    {
+      "language": "Swift",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 1144
+    },
+    {
+      "language": "C++",
+      "count": 1,
+      "percentage": 1.0,
+      "total_stars": 516
+    }
+  ],
+  "top_repositories": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "language": "Python",
+      "stars": 23996,
+      "forks": 2078,
+      "engagement_ratio": 0.087,
+      "category": "Other",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+      "language": "Rust",
+      "stars": 2943,
+      "forks": 189,
+      "engagement_ratio": 0.064,
+      "category": "AI/ML",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+      "language": "Unknown",
+      "stars": 2763,
+      "forks": 40,
+      "engagement_ratio": 0.014,
+      "category": "AI/ML",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+      "language": "Python",
+      "stars": 2272,
+      "forks": 138,
+      "engagement_ratio": 0.061,
+      "category": "AI/ML",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "language": "Rust",
+      "stars": 1556,
+      "forks": 95,
+      "engagement_ratio": 0.061,
+      "category": "Other",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
+      "language": "Python",
+      "stars": 1431,
+      "forks": 146,
+      "engagement_ratio": 0.102,
+      "category": "Other",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "language": "Objective-C++",
+      "stars": 1414,
+      "forks": 53,
+      "engagement_ratio": 0.037,
+      "category": "Other",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "language": "Rust",
+      "stars": 1338,
+      "forks": 77,
+      "engagement_ratio": 0.058,
+      "category": "Other",
+      "url": "https://github.com/Lemxy/WinRust"
+    },
+    {
+      "name": "os6/nospeaker",
+      "description": "make your macbook's trackpad talk using its haptic motor",
+      "language": "Swift",
+      "stars": 1144,
+      "forks": 58,
+      "engagement_ratio": 0.051,
+      "category": "Mobile",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "description": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "language": "Lean",
+      "stars": 791,
+      "forks": 223,
+      "engagement_ratio": 0.282,
+      "category": "Other",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Other",
+      "count": 48,
+      "percentage": 48.0
+    },
+    {
+      "category": "AI/ML",
+      "count": 36,
+      "percentage": 36.0
+    },
+    {
+      "category": "Data Engineering",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Web Development",
+      "count": 4,
+      "percentage": 4.0
+    },
+    {
+      "category": "Security",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "DevOps/Infra",
+      "count": 3,
+      "percentage": 3.0
+    },
+    {
+      "category": "Mobile",
+      "count": 2,
+      "percentage": 2.0
+    }
+  ],
+  "hackernews": {
+    "total_stories": 49,
+    "avg_score": 278.5,
+    "avg_comments": 162.7,
+    "max_score": 1377,
+    "top_5_stories": [
+      {
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "score": 1377,
+        "comments": 310,
+        "author": "rafaelc"
+      },
+      {
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "score": 1355,
+        "comments": 725,
+        "author": "zdw"
+      },
+      {
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "score": 1004,
+        "comments": 986,
+        "author": "happosai"
+      },
+      {
+        "title": "What Happened to Silicon Valley?",
+        "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+        "score": 771,
+        "comments": 421,
+        "author": "greenyouse"
+      },
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "url": "https://spelunkr.tv",
+        "score": 765,
+        "comments": 140,
+        "author": "SockThief"
+      }
+    ]
+  },
+  "week_over_week": [],
+  "summary": {
+    "dominant_language": "HTML",
+    "dominant_category": "Other",
+    "total_repos": 100,
+    "total_stars": 73912,
+    "avg_stars": 739.1
+  }
+}
